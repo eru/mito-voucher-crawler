@@ -15,3 +15,7 @@ npm install
 ```
 node index.js
 ```
+
+## Original data
+
+[水戸市プレミアム付商品券取扱店 | 水戸商工会議所](https://mito.inetcci.or.jp/voucher/index.php)
