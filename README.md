@@ -13,7 +13,7 @@ npm install
 ## Run
 
 ```
-node index.js
+npm run start
 ```
 
 ## Original data
