@@ -1,10 +1,25 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,パリミキ水戸店,水戸市笠原町563-1,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
+一般店,珈琲哲學　水戸店,水戸市加倉井町1952-1,https://goo.gl/maps/H5vC4EDAxtA6xth68,飲食,パスタ・ピッツァ・コーヒー・ケーキ
+一般店,お肉のおいしいレストラン　夢浪漫,水戸市姫子2-767-2,https://goo.gl/maps/TZWY2wZcXdkpQF6n6,飲食,国産牛ハンバーグ・カットステーキ
+一般店,レディースファッションベル,水戸市南町1-2-24 石井ビル1F,https://goo.gl/maps/yGRCCGTVn6sKTxum7,小売,婦人服・バッグ・靴
+一般店,とんQ水戸千波店（とんきゅう）,水戸市千波町1999-5,https://goo.gl/maps/73jJLkjPjhK9DswDA,飲食,とんかつ
+一般店,好文Cafe,水戸市千波町3080,https://goo.gl/maps/L9Yy3KqweVWhXGgn7,飲食,カフェ＆レストラン
+一般店,味人,水戸市白梅1-2-41 コーポ百番,https://goo.gl/maps/bR5puyLPRr8JE39t7,飲食,和食・串焼き
+一般店,Cafe Cocca （カフェコッカ）,水戸市大塚町2004-58,https://g.page/cafecocca?share,飲食,ハンバーグ・パンケーキ
+一般店,ビストロ　ヴィニョン,水戸市南町3-5-3石沢ビル1F,https://goo.gl/maps/rv883PshspTbwYs3A,飲食,洋食
+一般店,ステーションコム50号店,水戸市河和田3891-2,https://goo.gl/maps/raY22Fiq5uy1jVQ97,小売,食料品小売業
+一般店,常陸屋茶舗,水戸市南町3-4-19,,小売,日本茶、茶道具
+一般店,陽菜たぼこ,水戸市笠原町1397-3,https://goo.gl/maps/5n8W5MiaFy3ev6Ab6,飲食,和食
+一般店,吾妻鮨　笠原店,水戸市笠原町1229-3,https://goo.gl/maps/jsHwTYvcjptMJroH9,飲食,寿司
+一般店,ネッツトヨタ水戸（株）千波店,水戸市千波町1988,https://goo.gl/maps/LbiijL9P71xLvBBK8,小売,自動車販売・整備
+一般店,ネッツトヨタ水戸（株）内原店,水戸市内原1-151,https://goo.gl/maps/ZzijLjq459arWUt77,小売,自動車販売・整備
 一般店,カメラのタナカ・スタジオタナカ,水戸市浜田1-16-16,https://goo.gl/maps/f8YhErGWVUbTFgz86,サービス,デジタルプリント・証明写真・各種記念撮影
-一般店,大衆酒場　もっさん,水戸市宮町2-1-1 細谷ビル1F,,小売,もつ焼・もつ煮込み・牛たん焼
-一般店,セイコーマート吉沢店,水戸市吉沢町359-50,,小売,食料品
-一般店,セイコーマートねもと店,水戸市高田町190-10,,小売,食料品
-一般店,さくら屋,水戸市五軒町2-1-18,,飲食,料理
-一般店,ネッツトヨタ水戸（株）赤塚店,水戸市大塚町1841-24,,小売,自動車販売・整備
+一般店,大衆酒場　もっさん,水戸市宮町2-1-1 細谷ビル1F,https://goo.gl/maps/UeWDq9p2KrEkfV3h9,飲食,もつ焼・もつ煮込み・牛たん焼
+一般店,セイコーマート吉沢店,水戸市吉沢町359-50,https://goo.gl/maps/cQyWSzAiP2FhZXb69,小売,食料品
+一般店,セイコーマートねもと店,水戸市高田町190-10,https://goo.gl/maps/uBeumLZfPuRRPVy87,小売,食料品
+一般店,さくら屋,水戸市五軒町2-1-18,https://goo.gl/maps/M2KMTjguYq4paJSu9,飲食,料理
+一般店,ネッツトヨタ水戸（株）赤塚店,水戸市大塚町1841-24,https://goo.gl/maps/angYJZdLKWAkzqL6A,小売,自動車販売・整備
 一般店,茨城トヨタ自動車(株)水戸千波店,水戸市千波町1887,https://goo.gl/maps/bxt5Z4LgrGAB6Ur28,小売,自動車販売、整備、点検修理
 一般店,長島輪業,水戸市本町2-14-17,https://goo.gl/maps/tjidA4oYpZw6y5KM8,小売,自転車・バイク・販売修理
 一般店,イセヤ産業,水戸市元山町1-3-46,https://goo.gl/maps/tjidA4oYpZw6y5KM8,小売,プロパンガス・灯油
