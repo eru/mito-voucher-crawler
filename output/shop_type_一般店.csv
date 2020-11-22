@@ -1,4 +1,76 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,麺や　赤龍,水戸市宮町1-3-38 中村ビル1F,https://goo.gl/maps/UMiApXJs6arwubLS7,飲食,スタミナラーメン・海老みそラーメン
+一般店,リリースポーツクラブ,水戸市内原町1397-3,https://goo.gl/maps/BfNErd4KRR6Ewd7d9,その他,入会金・受講料・スポーツ用品
+一般店,セブン-イレブン水戸さくら通り店,水戸市吉沢町245-1,https://goo.gl/maps/22S62yzrnKRUvzKg8,小売,食品・雑貨
+一般店,セブン-イレブン水戸城東店,水戸市城東1-10-51,https://goo.gl/maps/xhEnHCabsJTphKm97,小売,食品・雑貨
+一般店,セブン-イレブン水戸笠原町店,水戸市笠原町1188-21,https://goo.gl/maps/Y5A8Hu14vcxrSxnHA,小売,食品・雑貨
+一般店,セブン-イレブン水戸東桜川店,水戸市東桜川6-11,https://goo.gl/maps/wED2V3Pur2cKRGXK9,小売,食品・雑貨
+一般店,セブン-イレブン水戸けやき台店,水戸市住吉町24-14,https://goo.gl/maps/wCpcZLnorJybTspTA,小売,食品・雑貨
+一般店,セブン-イレブン水戸百合が丘ニュータウン店,水戸市酒門町2915-3,https://goo.gl/maps/MEw9AUEQWQGA4q3fA,小売,食品・雑貨
+一般店,BRUNO Rive Gauche(ﾌﾞﾙｰﾉ ﾘﾌﾞ ｺﾞｰｼｭ),水戸市赤塚１-１,https://goo.gl/maps/o1QaF72NxMA46HHBA,サービス,美容室
+一般店,日の丸石油㈱　水戸けやき台SS,水戸市けやき台3-33-2,https://goo.gl/maps/ENsQMyczd3VvsiG36,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　大洗インターSS,水戸市東前町1591-1,https://goo.gl/maps/6vuqfzMvkPDHtHkY9,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　サウスロードSS,水戸市元吉田町911-3,https://goo.gl/maps/BwuWPF1EY3enSrJ56,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　酒門SS,水戸市酒門町409,https://goo.gl/maps/QuA4FBG4u1uphUTC6,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　河和田SS,水戸市河和田町3793-4,https://goo.gl/maps/CePcqjuVbpKFLfxu8,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　水戸駅南SS,水戸市城南2-3-22,https://goo.gl/maps/6dGw3Zr16LAwcLJh7,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　赤塚SS,水戸市赤塚1-2053-54,https://goo.gl/maps/Ps9Fc71Cmerm7KVn7,小売,ガソリン、灯油、カーメンテナンス
+一般店,小僧寿し　けやき台店,水戸市けやき台3-38　セイブけやき台店内,https://goo.gl/maps/65TSmTtMFNGoFAQz9,小売,テイクアウト　すし
+一般店,㈱千波タクシー,水戸市城南2-4-4,,その他,タクシー
+一般店,焼肉　味乃家亭,水戸市酒門町4394-1,https://goo.gl/maps/4uxMAsGR4wpa6VK89,飲食,焼肉
+一般店,季節料理　茶の間,水戸市南町1-2-4,https://goo.gl/maps/pmnexj5MeuNCN2M96,飲食,豚もやし鍋、自家製おでん、メンチカツ
+一般店,ザ　ドランケン　ダック,水戸市中央1-6-9,https://goo.gl/maps/5Bek79EZTZwq9b8eA,飲食,ハンバーガー、ケバブ、ハンバーグ
+一般店,詰食工房　和楽家,水戸市千波町454-3,https://goo.gl/maps/GLg5cW9SogPwFV1t5,飲食,和食
+一般店,スイーツブティツク　パレット,水戸市千波町2078-1,https://goo.gl/maps/E9uBTmNb9o1JEK1v8,小売,焼き菓子、生ケーキ
+一般店,カフェ＆バー　プラザ,水戸市千波町2078－1,https://goo.gl/maps/1DX2C9EYTsXkx7dW9,飲食,カフェ
+一般店,ばんどう太郎　水戸50号店,水戸市河和田3829-2,https://goo.gl/maps/yod2iiw2R4XNTpkM8,飲食,そば・うどんを中心とした和食
+一般店,魚兼,水戸市浜田2-2-21,https://goo.gl/maps/kRCp6jnxDGntY5QN6,飲食,日本料理
+一般店,お仏壇・お墓のこうわ,水戸市田野町1046-3,https://goo.gl/maps/X5punbDFBJzx5SvL8,小売,仏壇・墓石
+一般店,選鳥味選　本店（よりどりみどり）,水戸市飯島町471-4,https://goo.gl/maps/3UhnEZ8G3ioLEfh89,飲食,居酒屋・テイクアウト
+一般店,ベトナム料理123Dzô　モッハイバーヨー,水戸市白梅1-9-6,https://goo.gl/maps/HZY4LBERptxMbznF6,小売,ベトナム料理
+一般店,足湯フットセラピー豊愛サロン,水戸市南町2-16-50,https://goo.gl/maps/UcbVy8jyWmrS2D2KA,サービス,足湯、足もみ、ヨガ、瞑想
+一般店,関東印刷㈱,水戸市吉沢町352-88,https://goo.gl/maps/edHjPYkQmebM9stn7,その他,印刷物一般
+一般店,HALF TIME Cafe,水戸市緑町2-3-10　アダストリアみとアリーナ内,https://goo.gl/maps/yHW69vPZB4jiEQD89,飲食,手作りパン、パンカフェ、食パン、キューブパン、サンドウィッチ、コーヒー等
+一般店,コジコジ,水戸市渡里町2305-6　オザワビル２階,https://goo.gl/maps/R1sphQZkaoM3kPKC9,飲食,スリランカ　ワンプレート
+一般店,㈱タカトー,水戸市小林町1199-28,https://goo.gl/maps/E1HQgshwkz5wh6w17,小売,あんみつ
+一般店,(有)グリーン交通茨城,水戸市浜田町415-3,,サービス,タクシー
+一般店,お仏壇のやまと,水戸市住吉町75-1,https://goo.gl/maps/PA1p4Q9pLdnDdBbM7,小売,お仏壇、お仏具
+一般店,かつや水戸袴塚店,水戸市袴塚2-1-13,https://goo.gl/maps/WJbjEezhDoLC5yeq6,飲食,とんかつ、かつ丼など
+一般店,鮨幸,水戸市吉沼町1790-3,https://goo.gl/maps/rjD3poe3iDB7Sxcp8,飲食,寿司
+一般店,アクセス交通タクシー,水戸市栄町1-8-7,,サービス,タクシー
+一般店,(有)富永自動車工業,水戸市高田町247-3,https://goo.gl/maps/SMY3gzHQTa1rVJi57,サービス,自動車整備
+一般店,昭和シェル　ニュー内原給油所,水戸市大足町783-1,https://goo.gl/maps/hLZoe7Stv8stJGw9A,小売,ガソリンスタンド
+一般店,オレンジ・ピープル海賊の宝物,水戸市東赤塚4317-3,https://goo.gl/maps/SeJBVdWo72ufVsSF8,飲食,洋食全般
+一般店,焼肉きんぐ水戸南インター店,水戸市けやき台3-52-1,https://g.page/yakinikuking-mitominaminta?share,飲食,焼肉
+一般店,焼肉きんぐ水戸姫子店,水戸市見和2-514-11,https://g.page/yakinikuking-mitohimego?share,飲食,焼肉
+一般店,庄や　水戸店,水戸市宮町1-3-38,https://goo.gl/maps/ii127cdJ4YpL8WMH7,飲食,刺身、海鮮、串焼き
+一般店,(有)双葉タクシー,水戸市浜田町415-3,,サービス,タクシー
+一般店,(有)久保田タクシー,水戸市杉崎町143-1,,サービス,タクシー
+一般店,㈱グリーン交通なか常陽,水戸市浜田町415-3,,サービス,タクシー
+一般店,(有)SUN観光シンヤ,水戸市浜田町415-3,,サービス,タクシー
+一般店,(有)CSKグリーン・タクシー,水戸市浜田町415-3,,サービス,タクシー
+一般店,石川タクシー,水戸市浜田町415-3,,サービス,タクシー
+一般店,人形の幸月,水戸市末広町3-2-7,https://goo.gl/maps/76cxUj5Knrq6tqJP8,小売,節句人形、羽子板、破魔弓、ひな人形
+一般店,キルト千波,水戸市千波町2320-2,https://g.page/quilt-senba?share,サービス,鍼灸、マッサージ
+一般店,焼肉レストラン　新月苑,水戸市南町2-6-49,https://goo.gl/maps/RYDY1oULB64jSKnd7,飲食,焼肉
+一般店,レストラン宇野屋,水戸市見川2-108-26,https://goo.gl/maps/97wV7ZaJsEta5jQy9,飲食,定食、丼等
+一般店,㈱常陽第一タクシー,水戸市渋井町620-3,https://goo.gl/maps/3aaiXS9ccHu8NnFG8,サービス,タクシー
+一般店,Norah’s Cafe  （ノラズカフェ）,水戸市緑町1-2-3,https://goo.gl/maps/EPYTKrJrE6sKGjKdA,飲食,パスタランチ等
+一般店,鰻亭（ばんてい）,水戸市泉町3-5-4,https://goo.gl/maps/bWDpq6ZHUJCancMB6,飲食,日本料理、鰻
+一般店,五鐵夢境庵,水戸市南町1-3-27,https://goo.gl/maps/9zdGTXG2ixKiLeHf7,飲食,奥久慈軍鶏、あんこう、ふぐ、うなぎ、黄門料理
+一般店,DSIドローンスクール茨城,水戸市酒門町4228-1,https://g.page/dsi-dac?share,サービス,ドローン機種販売、ドローン技能教習
+一般店,トラストユーサービス,水戸市酒門町764-5,https://goo.gl/maps/Q5u3fjcfivzprp1A9,サービス,除草作業、廃棄物処理、引っ越しのお手伝い
+一般店,岩間東華堂薬局,水戸市泉町2-3-6,https://goo.gl/maps/Dh51JGPteQ1jbbdi6,小売,漢方薬、健康食品
+一般店,日本料理　諏訪亭,水戸市内原町1448,https://goo.gl/maps/Dh51JGPteQ1jbbdi6,飲食,日本料理
+一般店,㈱イチハラ商会,水戸市元吉田町1851-2,https://goo.gl/maps/87SKKTNs1uxZFJ2M6,小売,文具
+一般店,㈱フリースタイル,水戸市宮町2-2-28　富士ビル３　１階,https://goo.gl/maps/3RHvus6SwkP9r3cu7,サービス,美容室
+一般店,（資）平山酒店,水戸市末広町3-7-5,https://goo.gl/maps/jPDdcHcFa7eTfehk9,小売,日本酒、焼酎等アルコール飲料
+一般店,永江楽器　水戸,水戸市桜川1-5-15　都市ビル,https://goo.gl/maps/JdHwfgUnPYypBxKz6,小売,管楽器、楽器アクセサリー、修理
+一般店,居酒屋　鳥久,水戸市見川2-52-4,https://goo.gl/maps/hMp8whMhZb1AQEV5A,飲食,やきとり、料理各種、アルコール
+一般店,キムチのカワシマ,水戸市住吉町92-31,https://goo.gl/maps/C36c9v1j3N8bi9vv6,小売,白菜キムチ、ゆばキムチ、ニラキムチ、大根キムチ
+一般店,さいとう洋品店,水戸市元吉田町1626,https://goo.gl/maps/JxT1z3UvUi16SJuP9,小売,婦人服、学生服、通学服、体操服（吉田小、酒門小、水戸四中取扱店）
+一般店,(有)郡司製菓工場,水戸市東原2-1-42,https://goo.gl/maps/8LcEPpWNAURjbRrF9,小売,吉原殿中、甘納豆
+一般店,レストラン西洋堂,水戸市大町3-1-5,https://goo.gl/maps/fFeYTYQyemuFAZ2q6,飲食,フランス料理（ランチ・ディナー）及びコーヒーハウス（ランチ）
 一般店,パリミキ水戸店,水戸市笠原町563-1,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
 一般店,珈琲哲學　水戸店,水戸市加倉井町1952-1,https://goo.gl/maps/H5vC4EDAxtA6xth68,飲食,パスタ・ピッツァ・コーヒー・ケーキ
 一般店,お肉のおいしいレストラン　夢浪漫,水戸市姫子2-767-2,https://goo.gl/maps/TZWY2wZcXdkpQF6n6,飲食,国産牛ハンバーグ・カットステーキ
@@ -8,7 +80,7 @@
 一般店,味人,水戸市白梅1-2-41 コーポ百番,https://goo.gl/maps/bR5puyLPRr8JE39t7,飲食,和食・串焼き
 一般店,Cafe Cocca （カフェコッカ）,水戸市大塚町2004-58,https://g.page/cafecocca?share,飲食,ハンバーグ・パンケーキ
 一般店,ビストロ　ヴィニョン,水戸市南町3-5-3石沢ビル1F,https://goo.gl/maps/rv883PshspTbwYs3A,飲食,洋食
-一般店,ステーションコム50号店,水戸市河和田3891-2,https://goo.gl/maps/raY22Fiq5uy1jVQ97,小売,食料品小売業
+一般店,ステーションコム50号店,水戸市河和田町3891-2,https://goo.gl/maps/raY22Fiq5uy1jVQ97,小売,食料品小売業
 一般店,常陸屋茶舗,水戸市南町3-4-19,,小売,日本茶、茶道具
 一般店,陽菜たぼこ,水戸市笠原町1397-3,https://goo.gl/maps/5n8W5MiaFy3ev6Ab6,飲食,和食
 一般店,吾妻鮨　笠原店,水戸市笠原町1229-3,https://goo.gl/maps/jsHwTYvcjptMJroH9,飲食,寿司
@@ -189,7 +261,7 @@
 一般店,食酒　アキヅ,水戸市南町2-1-50,https://goo.gl/maps/C3DXqBgwXHeZvNLX9,飲食,イタリア料理、ワイン
 一般店,和 dining 加護や,水戸市米沢町283-2,https://goo.gl/maps/Jx7AG2o6RXJhCsqs6,飲食,"和食
 "
-一般店,沖縄料理　かなでち,水戸市南町2-4-35,https://goo.gl/maps/YMU2Yw9VY15Ut65A6,飲食,沖縄料理
+一般店,沖縄料理　かなでち,水戸市南町1-3-7,https://goo.gl/maps/YMU2Yw9VY15Ut65A6,飲食,沖縄料理
 一般店,シャトレーゼ水戸姫子店,水戸市姫子2-769-4,https://g.page/chateraise-mitohimego?share,小売,和洋菓子、ケーキ、アイスクリーム
 一般店,四川厨房　美,水戸市酒門町3298-8,https://goo.gl/maps/E6iyqbELmFGtEZeh8,飲食,中華料理
 一般店,ル・シフォン,水戸市見川1-1152-2,https://g.page/lechiffon?share,サービス,衣装レンタル、フォトウエディング

@@ -1,7 +1,35 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,セブン-イレブン水戸さくら通り店,水戸市吉沢町245-1,https://goo.gl/maps/22S62yzrnKRUvzKg8,小売,食品・雑貨
+一般店,セブン-イレブン水戸城東店,水戸市城東1-10-51,https://goo.gl/maps/xhEnHCabsJTphKm97,小売,食品・雑貨
+一般店,セブン-イレブン水戸笠原町店,水戸市笠原町1188-21,https://goo.gl/maps/Y5A8Hu14vcxrSxnHA,小売,食品・雑貨
+一般店,セブン-イレブン水戸東桜川店,水戸市東桜川6-11,https://goo.gl/maps/wED2V3Pur2cKRGXK9,小売,食品・雑貨
+一般店,セブン-イレブン水戸けやき台店,水戸市住吉町24-14,https://goo.gl/maps/wCpcZLnorJybTspTA,小売,食品・雑貨
+一般店,セブン-イレブン水戸百合が丘ニュータウン店,水戸市酒門町2915-3,https://goo.gl/maps/MEw9AUEQWQGA4q3fA,小売,食品・雑貨
+一般店,日の丸石油㈱　水戸けやき台SS,水戸市けやき台3-33-2,https://goo.gl/maps/ENsQMyczd3VvsiG36,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　大洗インターSS,水戸市東前町1591-1,https://goo.gl/maps/6vuqfzMvkPDHtHkY9,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　サウスロードSS,水戸市元吉田町911-3,https://goo.gl/maps/BwuWPF1EY3enSrJ56,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　酒門SS,水戸市酒門町409,https://goo.gl/maps/QuA4FBG4u1uphUTC6,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　河和田SS,水戸市河和田町3793-4,https://goo.gl/maps/CePcqjuVbpKFLfxu8,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　水戸駅南SS,水戸市城南2-3-22,https://goo.gl/maps/6dGw3Zr16LAwcLJh7,小売,ガソリン、灯油、カーメンテナンス
+一般店,日の丸石油㈱　赤塚SS,水戸市赤塚1-2053-54,https://goo.gl/maps/Ps9Fc71Cmerm7KVn7,小売,ガソリン、灯油、カーメンテナンス
+一般店,小僧寿し　けやき台店,水戸市けやき台3-38　セイブけやき台店内,https://goo.gl/maps/65TSmTtMFNGoFAQz9,小売,テイクアウト　すし
+一般店,スイーツブティツク　パレット,水戸市千波町2078-1,https://goo.gl/maps/E9uBTmNb9o1JEK1v8,小売,焼き菓子、生ケーキ
+一般店,お仏壇・お墓のこうわ,水戸市田野町1046-3,https://goo.gl/maps/X5punbDFBJzx5SvL8,小売,仏壇・墓石
+一般店,ベトナム料理123Dzô　モッハイバーヨー,水戸市白梅1-9-6,https://goo.gl/maps/HZY4LBERptxMbznF6,小売,ベトナム料理
+一般店,㈱タカトー,水戸市小林町1199-28,https://goo.gl/maps/E1HQgshwkz5wh6w17,小売,あんみつ
+一般店,お仏壇のやまと,水戸市住吉町75-1,https://goo.gl/maps/PA1p4Q9pLdnDdBbM7,小売,お仏壇、お仏具
+一般店,昭和シェル　ニュー内原給油所,水戸市大足町783-1,https://goo.gl/maps/hLZoe7Stv8stJGw9A,小売,ガソリンスタンド
+一般店,人形の幸月,水戸市末広町3-2-7,https://goo.gl/maps/76cxUj5Knrq6tqJP8,小売,節句人形、羽子板、破魔弓、ひな人形
+一般店,岩間東華堂薬局,水戸市泉町2-3-6,https://goo.gl/maps/Dh51JGPteQ1jbbdi6,小売,漢方薬、健康食品
+一般店,㈱イチハラ商会,水戸市元吉田町1851-2,https://goo.gl/maps/87SKKTNs1uxZFJ2M6,小売,文具
+一般店,（資）平山酒店,水戸市末広町3-7-5,https://goo.gl/maps/jPDdcHcFa7eTfehk9,小売,日本酒、焼酎等アルコール飲料
+一般店,永江楽器　水戸,水戸市桜川1-5-15　都市ビル,https://goo.gl/maps/JdHwfgUnPYypBxKz6,小売,管楽器、楽器アクセサリー、修理
+一般店,キムチのカワシマ,水戸市住吉町92-31,https://goo.gl/maps/C36c9v1j3N8bi9vv6,小売,白菜キムチ、ゆばキムチ、ニラキムチ、大根キムチ
+一般店,さいとう洋品店,水戸市元吉田町1626,https://goo.gl/maps/JxT1z3UvUi16SJuP9,小売,婦人服、学生服、通学服、体操服（吉田小、酒門小、水戸四中取扱店）
+一般店,(有)郡司製菓工場,水戸市東原2-1-42,https://goo.gl/maps/8LcEPpWNAURjbRrF9,小売,吉原殿中、甘納豆
 一般店,パリミキ水戸店,水戸市笠原町563-1,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
 一般店,レディースファッションベル,水戸市南町1-2-24 石井ビル1F,https://goo.gl/maps/yGRCCGTVn6sKTxum7,小売,婦人服・バッグ・靴
-一般店,ステーションコム50号店,水戸市河和田3891-2,https://goo.gl/maps/raY22Fiq5uy1jVQ97,小売,食料品小売業
+一般店,ステーションコム50号店,水戸市河和田町3891-2,https://goo.gl/maps/raY22Fiq5uy1jVQ97,小売,食料品小売業
 一般店,常陸屋茶舗,水戸市南町3-4-19,,小売,日本茶、茶道具
 一般店,ネッツトヨタ水戸（株）千波店,水戸市千波町1988,https://goo.gl/maps/LbiijL9P71xLvBBK8,小売,自動車販売・整備
 一般店,ネッツトヨタ水戸（株）内原店,水戸市内原1-151,https://goo.gl/maps/ZzijLjq459arWUt77,小売,自動車販売・整備
