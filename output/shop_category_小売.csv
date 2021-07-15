@@ -1,4 +1,11 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,ツルハドラック水戸元吉田東店,水戸市元吉田町2241‐1,https://goo.gl/maps/gmz1opz27jcVUCzX7,小売,医薬品、化商品、食器、雑貨
+一般店,セブン‐イレブン　水戸元石川町店,水戸市元石川町2573‐4,https://goo.gl/maps/Vis8rVVfYg1i29FP9,小売,飲食料品、身の回り品、酒
+一般店,セブン-イレブン水戸養護学校前店,水戸市元吉田町1873‐3,https://goo.gl/maps/AETbgxHXChNvZUsa7,小売,弁当、総菜、ドリンク、等
+一般店,バンビ鞄工房　水戸店,水戸市笠原町600‐25,https://goo.gl/maps/fcadyLV7f6wjnJUQ8,小売,鞄、財布、袋物
+一般店,辻武商事,水戸市末広町2‐4‐24,https://goo.gl/maps/kLmMhP1bcHo171Q68,小売,灯油、軽油等(配達可)
+一般店,酒舗たなか,水戸市南町2‐6‐30,https://goo.gl/maps/CjViGSodBoNAUGjs6,小売,茨城地酒
+一般店,ASA上水戸見和,水戸市新原2‐1‐5,https://goo.gl/maps/SKS3Z49osx96TKnj9,小売,朝日新聞、茨城新聞、日経新聞、他
 一般店,シャトレーゼ　水戸店,水戸市元吉田町1325‐1,https://g.page/chateraise-mito?share,小売,和洋菓子、ケーキ、アイスクリーム
 大型店,ラックラック　クリアランスマーケット,水戸市宮町1‐1‐1,https://goo.gl/maps/ayPyEjqTWS2nsgZT8,小売,衣料品
 一般店,スコーンドルフィン,水戸市双葉台1‐1775‐26,https://g.page/sconedolphin?share,小売,スコーン、バナナブレット
@@ -39,7 +46,7 @@
 一般店,キムチのカワシマ,水戸市住吉町92-31,https://goo.gl/maps/C36c9v1j3N8bi9vv6,小売,白菜キムチ、ゆばキムチ、ニラキムチ、大根キムチ
 一般店,さいとう洋品店,水戸市元吉田町1626,https://goo.gl/maps/JxT1z3UvUi16SJuP9,小売,婦人服、学生服、通学服、体操服（吉田小、酒門小、水戸四中取扱店）
 一般店,(有)郡司製菓工場,水戸市東原2-1-42,https://goo.gl/maps/8LcEPpWNAURjbRrF9,小売,吉原殿中、甘納豆
-一般店,パリミキ水戸店,水戸市笠原町563-1,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
+一般店,パリミキ水戸店,水戸市笠原町1188－3,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
 一般店,レディースファッションベル,水戸市南町1-2-24 石井ビル1F,https://goo.gl/maps/yGRCCGTVn6sKTxum7,小売,婦人服・バッグ・靴
 一般店,ステーションコム50号店,水戸市河和田町3891-2,https://goo.gl/maps/raY22Fiq5uy1jVQ97,小売,食料品小売業
 一般店,常陸屋茶舗,水戸市南町3-4-19,,小売,日本茶、茶道具
@@ -213,7 +220,6 @@
 大型店,トイザらス・ベビーザらス　水戸店,水戸市河和田町3637-1,https://goo.gl/maps/UbvdZTB6TeqXtCZDA,小売,玩具・育児用品・子供衣料・文具・学用品・ゲーム・ソフトウェア・書籍・スポーツ用品など・ベビー・子供用品全般
 一般店,シャディ　ナカムラ　末広町本店,水戸市末広町2-1-29,https://goo.gl/maps/Whj8T6JkD47vvkQRA,小売,ギフト好適品
 一般店,太田呉服店,水戸市河和田1-1712,https://goo.gl/maps/e4AYAft4xKYbEhFi6,小売,呉服・洋品・寝具・学生用品
-一般店,登里信,水戸市萱場町770-5,https://goo.gl/maps/gCfCmGZP1en7cKoD8,小売,やきとり
 一般店,小貫書店　駅南店,水戸市城南2-12-13,https://goo.gl/maps/2w7DBKLAwAGLHW3A6,小売,書籍
 一般店,(株)友部豊吉商店　C&C市場店,水戸市青柳町4566(公設市場内),https://goo.gl/maps/4KpacJhjVLjh1fkT9,小売,一般食品・業務用食材
 一般店,ファミリーマート　水戸石川店,水戸市石川2-4314-1,https://goo.gl/maps/gYy7KRWtM5tpYwa98,小売,一般食料品・雑貨・酒など
@@ -304,7 +310,7 @@
 大型店,ホームセンター　山新平須店,水戸市平須町1828,https://goo.gl/maps/dnK4tmr7gpu1ajgS7,小売,日用雑貨、家庭用品、ペット用品、農業資材
 大型店,ホームセンター　山新渡里店,水戸市渡里町4086,https://goo.gl/maps/cPrjgqVj3ueZgazX7,小売,日用品・園芸用品・大工道具・農業資材など
 大型店,100円ショップワッツ,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,バラエティ雑貨
-大型店,クリファーム,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,小物雑貨
+大型店,インデックス,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,lucara,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,ｺﾝﾀｸﾄのアイシティ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,コンタクト
 大型店,コスメーム,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,化粧品

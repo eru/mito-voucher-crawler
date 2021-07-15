@@ -1,4 +1,6 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,Chinese Kitchen 柏ノ木,水戸市飯富町5328‐1,https://goo.gl/maps/85gF8UDrm78YviQy6,飲食,地産地消をモットーにした中国料理
+一般店,水戸肉寿司,水戸市宮町2－2－33,https://goo.gl/maps/PEQ8Yn62w99MLQhY9,飲食,馬肉
 一般店,笠間産和栗のモンブラン専門店栗乃薫,水戸市見川町2389‐3,https://goo.gl/maps/QmAbnVkvYsukDF9r7,飲食,できたてモンブラン
 一般店,レストランよこかわ,水戸市大町2‐3‐22,https://goo.gl/maps/8R5ypmdRrTNrhBGU6,飲食,洋食
 一般店,カフェギャラリー　ゆずり葉,水戸市米沢町432-1,https://goo.gl/maps/uofoPaqzCVvCqttbA,飲食,ランチ、スイーツ、コーヒー等の飲みもの
@@ -63,14 +65,13 @@
 一般店,旨安酒場　うっとら,水戸市宮町2-5-38,https://goo.gl/maps/LYppvD1BQd7yc8LM9,飲食,お酒に合うおつまみ多数・飲み放題・コース料理もお得
 一般店,ベトナム料理　アオババ,水戸市南町1-3-40,https://goo.gl/maps/heCNyqX63x9LJGbHA,飲食,生春巻き・フォー・ブンチャー
 一般店,焼き鳥ダイニング漣,水戸市城南1-6-4城南マンション1F,https://goo.gl/maps/ezEGzCGuksSNCHws8,飲食,焼鳥
-一般店,令和納豆,水戸市梅香1-2-5　アーバンビジネスホテル２階,https://goo.gl/maps/dBpnKJBmmppifPst9,飲食,納豆ごはんセット
 一般店,喜八楽八　笠原店,水戸市笠原町600-17,https://goo.gl/maps/BDNUMJ7c2o2iw5jL9,飲食,居酒屋
 一般店,カレーハウスCoCo壱番屋　水戸駅南口店,水戸市宮町1-7-44　COMBOX310 3F,https://goo.gl/maps/FzmTzk6BCiV3117u6,飲食,カレー
 一般店,カレーハウスCoCo壱番屋　水戸南インター店,水戸市けやき台3-18,https://goo.gl/maps/rsp5mq9Bot2B81bk7,飲食,カレー
 大型店,Café・dé・Remi,水戸市宮町1-7-33　水戸サウスタワー8F,https://goo.gl/maps/PveFNrHwYZQEVbux7,飲食,ローストビーフ、自家製ハンバーグプレート、キッズドリンクバー
 一般店,リストランテ　勘十郎,水戸市元吉田町1042-12,https://goo.gl/maps/QnLWr4peYdYRxrH2A,飲食,コース・パスタ・ピザ・お肉料理・お魚料理
 一般店,居酒屋　西濃,水戸市末広町3-2-11,https://goo.gl/maps/QUvF12Adqx3RwWVP7,飲食,居酒屋
-一般店,寿司ダイニング　福円（ふくまる）,水戸市笠原町1523-3,https://goo.gl/maps/ScVedv9ANCsXMF459,飲食,"ランチにぎり1,000円（茶碗蒸・サラダ・コーヒー付）、その他メニューあり"
+一般店,寿司ダイニング　福円（ふくまる）,水戸市笠原町1523-3,https://goo.gl/maps/ScVedv9ANCsXMF459,飲食,"ランチにぎり1,100円（茶碗蒸・サラダ・コーヒー付）、その他メニューあり"
 一般店,揚げたて屋てん　河和田店,水戸市河和田町4379-43,https://goo.gl/maps/CtwrxYcE42jCqCQdA,飲食,天プラ定食、丼物
 一般店,格子屋　赤塚店,水戸市赤塚1-1975-2,https://goo.gl/maps/9zFmE4JvToMgDztg9,飲食,海鮮居酒屋
 一般店,㈱フライングガーデン　県庁さくら通り店,水戸市米沢町345-1,https://goo.gl/maps/CzN5brXRFBSKmnCU6,飲食,ハンバーグ

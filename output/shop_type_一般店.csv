@@ -1,4 +1,13 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,ツルハドラック水戸元吉田東店,水戸市元吉田町2241‐1,https://goo.gl/maps/gmz1opz27jcVUCzX7,小売,医薬品、化商品、食器、雑貨
+一般店,セブン‐イレブン　水戸元石川町店,水戸市元石川町2573‐4,https://goo.gl/maps/Vis8rVVfYg1i29FP9,小売,飲食料品、身の回り品、酒
+一般店,セブン-イレブン水戸養護学校前店,水戸市元吉田町1873‐3,https://goo.gl/maps/AETbgxHXChNvZUsa7,小売,弁当、総菜、ドリンク、等
+一般店,Chinese Kitchen 柏ノ木,水戸市飯富町5328‐1,https://goo.gl/maps/85gF8UDrm78YviQy6,飲食,地産地消をモットーにした中国料理
+一般店,バンビ鞄工房　水戸店,水戸市笠原町600‐25,https://goo.gl/maps/fcadyLV7f6wjnJUQ8,小売,鞄、財布、袋物
+一般店,辻武商事,水戸市末広町2‐4‐24,https://goo.gl/maps/kLmMhP1bcHo171Q68,小売,灯油、軽油等(配達可)
+一般店,酒舗たなか,水戸市南町2‐6‐30,https://goo.gl/maps/CjViGSodBoNAUGjs6,小売,茨城地酒
+一般店,水戸肉寿司,水戸市宮町2－2－33,https://goo.gl/maps/PEQ8Yn62w99MLQhY9,飲食,馬肉
+一般店,ASA上水戸見和,水戸市新原2‐1‐5,https://goo.gl/maps/SKS3Z49osx96TKnj9,小売,朝日新聞、茨城新聞、日経新聞、他
 一般店,シャトレーゼ　水戸店,水戸市元吉田町1325‐1,https://g.page/chateraise-mito?share,小売,和洋菓子、ケーキ、アイスクリーム
 一般店,ビッグエコー　上水戸店,水戸市上水戸3‐6‐28,https://goo.gl/maps/mPZD3Eer2AorEgmE8,サービス,カラオケBOX
 一般店,ビッグエコー　水戸店,水戸市元吉田町1325‐1,https://goo.gl/maps/qYX4FXkXphhHXySB9,サービス,カラオケBOX
@@ -14,7 +23,7 @@
 一般店,カフェギャラリー　ゆずり葉,水戸市米沢町432-1,https://goo.gl/maps/uofoPaqzCVvCqttbA,飲食,ランチ、スイーツ、コーヒー等の飲みもの
 一般店,Sugar Hill,水戸市吉沼町270‐3,https://goo.gl/maps/JagcRLgRv51caLZaA,サービス,まつ毛エクステンション
 一般店,Parts.co.jp（株）,水戸市平須町1820-77,https://goo.gl/maps/uo38b8KA37jHzwyN6,小売,車用品
-一般店,ストロベリーフィールズ水戸,水戸市渋井町598,https://g.page/fields-mito?share,サービス,写真撮影・衣装レンタル（七五三、お墓参り、初節句、入園入学、マタニティなど）
+一般店,ストロベリーフィールズ水戸,水戸市渋井町598,https://g.page/fields-mito?share,サービス,写真撮影・衣装レンタル（七五三、お宮参り、初節句、入園入学、マタニティなど）
 一般店,水戸プラザホテル,水戸市千波町2078－1,https://g.page/mitoplazahotel?share,サービス,宿泊・レストラン
 一般店,花きゃべつ,水戸市南町2-6-31,https://g.page/hanakya?share,飲食,洋食・オムライス
 一般店,大高呉服店,水戸市大足町728-1,https://goo.gl/maps/z9rE1J27dc95oTGv7,小売,呉服・用品・化粧品
@@ -96,7 +105,7 @@
 一般店,さいとう洋品店,水戸市元吉田町1626,https://goo.gl/maps/JxT1z3UvUi16SJuP9,小売,婦人服、学生服、通学服、体操服（吉田小、酒門小、水戸四中取扱店）
 一般店,(有)郡司製菓工場,水戸市東原2-1-42,https://goo.gl/maps/8LcEPpWNAURjbRrF9,小売,吉原殿中、甘納豆
 一般店,レストラン西洋堂,水戸市大町3-1-5,https://goo.gl/maps/fFeYTYQyemuFAZ2q6,飲食,フランス料理（ランチ・ディナー）及びコーヒーハウス（ランチ）
-一般店,パリミキ水戸店,水戸市笠原町563-1,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
+一般店,パリミキ水戸店,水戸市笠原町1188－3,https://goo.gl/maps/kD7SBo8KRMMbyaW5A,小売,メガネ・コンタクト・補聴器
 一般店,珈琲哲學　水戸店,水戸市加倉井町1952-1,https://goo.gl/maps/H5vC4EDAxtA6xth68,飲食,パスタ・ピッツァ・コーヒー・ケーキ
 一般店,お肉のおいしいレストラン　夢浪漫,水戸市姫子2-767-2,https://goo.gl/maps/TZWY2wZcXdkpQF6n6,飲食,国産牛100％ハンバーグ・常陸牛ステーキ
 一般店,レディースファッションベル,水戸市南町1-2-24 石井ビル1F,https://goo.gl/maps/yGRCCGTVn6sKTxum7,小売,婦人服・バッグ・靴
@@ -162,7 +171,6 @@
 一般店,焼き鳥ダイニング漣,水戸市城南1-6-4城南マンション1F,https://goo.gl/maps/ezEGzCGuksSNCHws8,飲食,焼鳥
 一般店,JTB水戸北口店,水戸市宮町2-3-2 富士ビル1F,https://goo.gl/maps/yq1XhyaBDVbDkzFj8,サービス,宿泊を伴う旅行のみ（取消に伴う返金は旅行券となります）
 一般店,JTB茨城県庁前店,水戸市笠原町978-25 茨城県開発公社ビル1F,https://goo.gl/maps/ZPBVZ96haezpfLGo8,サービス,宿泊を伴う旅行のみ（取消に伴う返金は旅行券となります）
-一般店,令和納豆,水戸市梅香1-2-5　アーバンビジネスホテル２階,https://goo.gl/maps/dBpnKJBmmppifPst9,飲食,納豆ごはんセット
 一般店,クリエイトS・D水戸中丸店,水戸市中丸町278-1,https://goo.gl/maps/uPmSA5L7gjuZvuEr9,小売,医薬品、化粧品、食品、日用品
 一般店,喜八楽八　笠原店,水戸市笠原町600-17,https://goo.gl/maps/BDNUMJ7c2o2iw5jL9,飲食,居酒屋
 一般店,カレーハウスCoCo壱番屋　水戸駅南口店,水戸市宮町1-7-44　COMBOX310 3F,https://goo.gl/maps/FzmTzk6BCiV3117u6,飲食,カレー
@@ -178,7 +186,7 @@
 一般店,リストランテ　勘十郎,水戸市元吉田町1042-12,https://goo.gl/maps/QnLWr4peYdYRxrH2A,飲食,コース・パスタ・ピザ・お肉料理・お魚料理
 一般店,茨城交通㈱旅行部,水戸市袴塚3-5-36,https://goo.gl/maps/QFmSDz8n3TU5KY3J6,サービス,旅行
 一般店,居酒屋　西濃,水戸市末広町3-2-11,https://goo.gl/maps/QUvF12Adqx3RwWVP7,飲食,居酒屋
-一般店,寿司ダイニング　福円（ふくまる）,水戸市笠原町1523-3,https://goo.gl/maps/ScVedv9ANCsXMF459,飲食,"ランチにぎり1,000円（茶碗蒸・サラダ・コーヒー付）、その他メニューあり"
+一般店,寿司ダイニング　福円（ふくまる）,水戸市笠原町1523-3,https://goo.gl/maps/ScVedv9ANCsXMF459,飲食,"ランチにぎり1,100円（茶碗蒸・サラダ・コーヒー付）、その他メニューあり"
 一般店,㈱オートアールズ水戸店,水戸市元吉田町1030-6,https://g.page/autors_mito?share,小売,カー用品
 一般店,直売所　つねずみ,水戸市塩崎町1078-3,https://goo.gl/maps/em2XX2fMLjD2nuNv7,小売,干しいも、野菜、米、加工品
 一般店,揚げたて屋てん　河和田店,水戸市河和田町4379-43,https://goo.gl/maps/CtwrxYcE42jCqCQdA,飲食,天プラ定食、丼物
@@ -393,7 +401,6 @@
 "
 一般店,吾妻鮨　宮下店,水戸市宮町2-5-5,https://goo.gl/maps/TgsY6CmHgmeWxddJ8,飲食,寿司
 一般店,太田呉服店,水戸市河和田1-1712,https://goo.gl/maps/e4AYAft4xKYbEhFi6,小売,呉服・洋品・寝具・学生用品
-一般店,登里信,水戸市萱場町770-5,https://goo.gl/maps/gCfCmGZP1en7cKoD8,小売,やきとり
 一般店,小貫書店　駅南店,水戸市城南2-12-13,https://goo.gl/maps/2w7DBKLAwAGLHW3A6,小売,書籍
 一般店,(株)友部豊吉商店　C&C市場店,水戸市青柳町4566(公設市場内),https://goo.gl/maps/4KpacJhjVLjh1fkT9,小売,一般食品・業務用食材
 一般店,ファミリーマート　水戸石川店,水戸市石川2-4314-1,https://goo.gl/maps/gYy7KRWtM5tpYwa98,小売,一般食料品・雑貨・酒など

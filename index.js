@@ -7,7 +7,7 @@ const writeFile = (file, data) => fs.writeFile(`output/${file}`, data, err => {
   if (err) throw err
   console.log(`${file} writed.`)
 })
-const last_page = 95
+const last_page = 96
 
 ;(async () => {
   const browser = await puppeteer.launch()
