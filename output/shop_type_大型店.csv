@@ -1,13 +1,12 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
-大型店,ゴンチャ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,飲食,カフェ
-大型店,近畿日本ツーリスト,水戸市内原2-2　イオンモール水戸内原,https://goo.gl/maps/MLsrup3L8PZTSjQa9,サービス,"トラベル
-"
+大型店,ラックラック　クリアランスマーケット,水戸市宮町1‐1‐1,https://goo.gl/maps/ayPyEjqTWS2nsgZT8,小売,衣料品
 大型店,ディスカウントドラッグコスモス　堀町店,水戸市堀町1002-4,https://g.page/COSMOShorityou?share,小売,医薬品・化粧品・日用品・食料品他
 大型店,ヨークベニマル　水戸元吉田店,水戸市元吉田町1037-4,https://goo.gl/maps/b3XZXDiXZ6s6M3jS7,小売,食料品、日用雑貨、家庭用品
 大型店,Café・dé・Remi,水戸市宮町1-7-33　水戸サウスタワー8F,https://goo.gl/maps/PveFNrHwYZQEVbux7,飲食,ローストビーフ、自家製ハンバーグプレート、キッズドリンクバー
 大型店,カラオケドレミ　水戸OPA店,水戸市宮町1-7-33　水戸サウスタワー9F,https://goo.gl/maps/Y3tApMwn88WiQVGo7,サービス,カラオケ　飲食　ランチセット（３H+ドリンクバー+ランチ付）
 大型店,ウィノフスタイル/東急ハンズトラックマーケット,水戸市宮町1-7-33　水戸オーパ,https://goo.gl/maps/2iiYokBbehed97Hm9,小売,アパレル、雑貨、生活用品、カバン等
 大型店,紅虎餃子房,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/d87obRPmXXURr3er5,飲食,レストラン
+大型店,キッチン寅家,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/SMSqbV6sW2sRtadk8,飲食,洋食
 大型店,エルアールディーアール,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/SMSqbV6sW2sRtadk8,小売,"婦人服
 "
 大型店,ウエルシアヨークタウン水戸店,水戸市元吉田町1030-12,https://goo.gl/maps/uNW1Lemk6XXUsqsQA,小売,医薬品・化粧品・食品・雑貨
@@ -15,7 +14,6 @@
 大型店,焼肉秀門　水戸オーパ店,水戸市宮町1-7-33　水戸サウスタワー９F ,https://goo.gl/maps/ZXyKPy9gWvTvuySm7,飲食,宮崎牛　焼肉
 大型店,ファッションセンターしまむら　エクセルみなみ店,水戸市宮町1-7-31　エクセルみなみ５F,https://goo.gl/maps/sLUwYuWSMtZ7kvgM8,小売,衣料品
 大型店,MGEAドン・キホーテ上水戸店,水戸市上水戸2-9-10,https://goo.gl/maps/qLnYP9yZn2gxFbyF8,小売,食品・雑貨・家電
-大型店,ツルハドラッグ水戸東前店,水戸市東前2-38,https://goo.gl/maps/uFBxaJwX2dfYUd5b7,小売,医薬品、化粧品、雑貨、食品
 大型店,ドン・キホーテ水戸店,水戸市河和田町3891-434,https://goo.gl/maps/XZwihPoaarxef4Lm7,小売,食品、日用品、衣料品
 大型店,サンドラッグ　水戸笠原店,水戸市小吹町新山2582-2,https://goo.gl/maps/UZ3WUncdKe5eyZrm6,小売,医薬品、化粧品、食料品
 大型店,フレッシュ丸果,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/CdoKT56q9vYvexZMA,小売,野菜
@@ -68,7 +66,6 @@
 大型店,lucara,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,コスメーム,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,化粧品
 大型店,ユナイテッドアローズ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,衣料品
-大型店,HAPiNS,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,バラエティ雑貨
 大型店,マリークヮント,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,化粧品
 大型店,ゴディバ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,チョコレート
 大型店,新星堂,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,CD、DVD
@@ -91,10 +88,8 @@
 大型店,鳥専亭,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,焼き鳥、惣菜
 大型店,茨城味撰倶楽部,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,食品（土産品）、茨城名産
 大型店,IBARAKIスイーツ工房,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,洋菓子
-大型店,天狗納豆,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,納豆
 大型店,ニュークイック エクセルみなみ店,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,精肉.ハム
 大型店,海鮮工房　田中,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,鮮魚
-大型店,アナトリエ,水戸市宮町1-1-1 　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,プチロコス,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,北関東名産
 大型店,黄金おこわ　たごさく,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,おこわ
 大型店,ローリーズファーム,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
@@ -158,7 +153,7 @@
 大型店,ﾌﾟﾃｨﾏｲﾝ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,子供衣料
 大型店,ﾗｲﾄｵﾝ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
 大型店,ｸﾞﾛｰﾊﾞﾙﾜｰｸ,水戸市内原2-1　イオンモール水戸内原, https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
-大型店,ｱｰﾉﾙﾄﾞﾊﾟｰﾏｰﾀｲﾑﾚｽ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
+大型店,ｺﾞｰｽﾛｰｷｬﾗﾊﾞﾝ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士
 大型店,ｽﾀｰﾍﾞｲｼｮﾝｽﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
 大型店,WEGO,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士衣料
 大型店,THE SHOP TK,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士衣料
@@ -185,7 +180,7 @@
 大型店,ｽﾄｰﾝﾏｰｹｯﾄ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,アクセサリー
 大型店,ｴｳﾞｧﾝｼﾞﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,アクセサリー
 大型店,SatiS,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
-大型店,ﾋｯﾁﾊｲｸﾏｰｹｯﾄ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
+大型店,果じゅる,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,洋生菓子
 大型店,ｷﾞｱｰｽﾞｼﾞｬﾑ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
 大型店,ｻｯｸｽﾊﾞｰ･ｱﾅｻﾞｰﾗｳﾝｼﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
 大型店,ﾗﾝｼﾞｪ ﾉｴﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,ランファン
@@ -193,13 +188,11 @@
 大型店,ｴﾒﾌｨｰﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,ランファン
 大型店,niko and …,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,衣料・雑貨
 大型店,ｱﾒﾘｶﾝﾎﾘｯｸ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,衣料・雑貨
-大型店,ｸﾞﾗﾆﾌ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人・紳士・子供衣料
 大型店,ﾛﾃﾞｵｸﾗｳﾝｽﾞ･ﾜｲﾄﾞﾎﾞｳﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人・紳士・子供衣料
 大型店,GAP/Gap kids,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人・紳士・子供衣料
 大型店,ﾋﾞｰﾝｽﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ﾚｲｼﾞﾌﾞﾙｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ｺﾝﾌｧｰﾑ･ｲﾙｽﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
-大型店,HLA,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ｱﾀﾞﾑｽｼﾞｬｸﾞﾗｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ﾊｲﾀﾞｳｪｲ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ﾀｶｷｭｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
@@ -210,7 +203,6 @@
 大型店,ﾛｰﾘｰｽﾞﾌｧｰﾑ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,ﾊｰﾄﾏｰｹｯﾄ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,INGNI,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
-大型店,Garden by oneway,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,LD prime,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,スポーツオーソリティ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,"スポーツ用品
 "
@@ -224,8 +216,7 @@
 大型店,ﾏﾘﾉ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,ｽﾃｰｷ＆ﾊﾝﾊﾞｰｸﾞ ﾃﾞﾝﾊﾞｰﾌﾟﾚﾐｱﾑ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,ﾃﾞﾘ・ｼｭｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
-大型店,越後秘蔵麺 無尽蔵,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
-大型店,浅草ｸﾞﾘﾙﾊﾞｰｸﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
+大型店,千房,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,鎌倉ﾊﾟｽﾀ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,ﾗｹﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,天麩羅 えびのや,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン

@@ -1,9 +1,21 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,シャトレーゼ　水戸店,水戸市元吉田町1325‐1,https://g.page/chateraise-mito?share,小売,和洋菓子、ケーキ、アイスクリーム
+大型店,ラックラック　クリアランスマーケット,水戸市宮町1‐1‐1,https://goo.gl/maps/ayPyEjqTWS2nsgZT8,小売,衣料品
+一般店,スコーンドルフィン,水戸市双葉台1‐1775‐26,https://g.page/sconedolphin?share,小売,スコーン、バナナブレット
+一般店,菓子屋のんびりくらし,水戸市天王町9‐23,https://g.page/nonbirikurashi?share,小売,チョコレート菓子
+一般店,介護用品のミッキーズ,水戸市千波町2471‐3,https://goo.gl/maps/sYLhnyBmhf31Wj689,小売,くつ、杖、シルバーカー、入浴補助具、その他介護用品全般
+一般店,Cannery Row 水戸店,水戸市元吉田町1046‐3,https://goo.gl/maps/bYN8Df78W9JUz8wb6,小売,パスタ、ピザ、ケーキ
+一般店,(有)大森商会　自由が丘SS,水戸市自由が丘4‐2,https://goo.gl/maps/KcwBju8rk7oCn6CZ9,小売,ガソリン、軽油、灯油
+一般店,Parts.co.jp（株）,水戸市平須町1820-77,https://goo.gl/maps/uo38b8KA37jHzwyN6,小売,車用品
+一般店,大高呉服店,水戸市大足町728-1,https://goo.gl/maps/z9rE1J27dc95oTGv7,小売,呉服・用品・化粧品
+一般店,ふくや　水戸店,水戸市袴塚2-4-56セイブ袴塚店内,https://goo.gl/maps/fvdqwaeiqh9WBuWm7,小売,婦人衣料・紳士衣料・肌着・靴下・寝具
+一般店,酒や　こまき,水戸市見和2-473-31,https://goo.gl/maps/VA38cRcESncXyiq87,小売,清酒・本格焼酎・ビール・飲料水・食品
+一般店,常磐・水郡MADE STATION,水戸市宮町1-1　エクセル自由通路,https://goo.gl/maps/LzJ2HhW7hKFox4v36,小売,笠間焼・ほしいも・吉原殿中・奥久慈プリン
 一般店,セブン-イレブン水戸さくら通り店,水戸市吉沢町245-1,https://goo.gl/maps/22S62yzrnKRUvzKg8,小売,食品・雑貨
 一般店,セブン-イレブン水戸城東店,水戸市城東1-10-51,https://goo.gl/maps/xhEnHCabsJTphKm97,小売,食品・雑貨
 一般店,セブン-イレブン水戸笠原町店,水戸市笠原町1188-21,https://goo.gl/maps/Y5A8Hu14vcxrSxnHA,小売,食品・雑貨
 一般店,セブン-イレブン水戸東桜川店,水戸市東桜川6-11,https://goo.gl/maps/wED2V3Pur2cKRGXK9,小売,食品・雑貨
-一般店,セブン-イレブン水戸けやき台店,水戸市住吉町24-14,https://goo.gl/maps/wCpcZLnorJybTspTA,小売,食品・雑貨
+一般店,セブン-イレブン水戸西けやき台店,水戸市住吉町24-14,https://goo.gl/maps/wCpcZLnorJybTspTA,小売,食品・雑貨
 一般店,セブン-イレブン水戸百合が丘ニュータウン店,水戸市酒門町2915-3,https://goo.gl/maps/MEw9AUEQWQGA4q3fA,小売,食品・雑貨
 一般店,日の丸石油㈱　水戸けやき台SS,水戸市けやき台3-33-2,https://goo.gl/maps/ENsQMyczd3VvsiG36,小売,ガソリン、灯油、カーメンテナンス
 一般店,日の丸石油㈱　大洗インターSS,水戸市東前町1591-1,https://goo.gl/maps/6vuqfzMvkPDHtHkY9,小売,ガソリン、灯油、カーメンテナンス
@@ -39,7 +51,7 @@
 一般店,茨城トヨタ自動車(株)水戸千波店,水戸市千波町1887,https://goo.gl/maps/bxt5Z4LgrGAB6Ur28,小売,自動車販売、整備、点検修理
 一般店,長島輪業,水戸市本町2-14-17,https://goo.gl/maps/tjidA4oYpZw6y5KM8,小売,自転車・バイク・販売修理
 一般店,イセヤ産業,水戸市元山町1-3-46,https://goo.gl/maps/tjidA4oYpZw6y5KM8,小売,プロパンガス・灯油
-一般店,茨城ロボッツ　チケット＆グッズショップ,水戸市緑町2-3-10　アダストリア水戸アリーナ,https://goo.gl/maps/3Mw2ygLftGKJzXac9,小売,ホームゲームチケット及びグッズ
+一般店,茨城ロボッツ　チケット＆グッズショップ,水戸市緑町2-3-10　アダストリアみとアリーナ,https://goo.gl/maps/3Mw2ygLftGKJzXac9,小売,ホームゲームチケット及びグッズ
 一般店,セイコーマート水戸住吉店,水戸市住吉町91-7,https://goo.gl/maps/PmkbGpZRuff3V9or9,小売,食料品
 一般店,セイコーマート水戸河和田３丁目店,水戸市河和田3-2280-1,https://goo.gl/maps/412DfL8SPrsJrf9U8,小売,食料品
 一般店,セーコーマート水戸堀町店,水戸市堀町1223-1,https://goo.gl/maps/qnr3R8rY4v74aS1KA,小売,食料品
@@ -66,11 +78,11 @@
 一般店,直売所　つねずみ,水戸市塩崎町1078-3,https://goo.gl/maps/em2XX2fMLjD2nuNv7,小売,干しいも、野菜、米、加工品
 一般店,(有)関根硝子店,水戸市南町1-2-29,https://goo.gl/maps/kt1H67ef3hzPMJXJA,小売,ガラス器雑貨、鏡、電機のかさ、板ガラス、サッシ、網戸
 一般店,㈱フライングガーデン　内原イオン前店,水戸市中原町83-1,https://goo.gl/maps/CzN5brXRFBSKmnCU6,小売,ハンバーグ
-一般店,セブン－イレブン　水戸見川丹下店,水戸市見川町字丹下一ノ牧2131-475,https://goo.gl/maps/3bd7BRiryzuEhDcZ6,小売,食品、酒、雑貨
+一般店,セブン-イレブン　水戸見川丹下店,水戸市見川町字丹下一ノ牧2131-475,https://goo.gl/maps/3bd7BRiryzuEhDcZ6,小売,食品、酒、雑貨
 一般店,アベイル見川店,水戸市見川町2139-7,https://goo.gl/maps/G4KjivqLv6yM32KTA,小売,衣料品
 一般店,お魚市場　大洗イエローポート,水戸市大串町895,https://goo.gl/maps/33HyfEhed6wFofRN9,小売,魚介類、ひもの、菓子、お土産品、海鮮料理
-一般店,セブン－イレブン水戸酒門町店,水戸市酒門町1455-6,https://goo.gl/maps/Pz2ncBHL5XK5CaPBA,小売,食品・雑貨など
-一般店,セブン－イレブン水戸緑岡店,水戸市千波町1838-7,https://goo.gl/maps/XA3gvvaf8yHrvE9E9,小売,一般食料品、雑貨全般
+一般店,セブン-イレブン水戸酒門町店,水戸市酒門町1455-6,https://goo.gl/maps/Pz2ncBHL5XK5CaPBA,小売,食品・雑貨など
+一般店,セブン-イレブン水戸緑岡店,水戸市千波町1838-7,https://goo.gl/maps/XA3gvvaf8yHrvE9E9,小売,一般食料品、雑貨全般
 一般店,天狗納豆㈱,水戸市柳町1-13-13,https://goo.gl/maps/5aX6SNvpUykV3pXb7,小売,わら納豆、そぼろ納豆
 一般店,手作りパンの店　きんのすゞ,水戸市笠原町950-10,https://goo.gl/maps/nw27JUmisnt2WBdt5,小売,パン
 一般店,アクアクララ水戸,水戸市西原1-10-6,https://goo.gl/maps/kB7mskuSUYy6Zr1t6,小売,ミネラルウォーター（清涼飲料）
@@ -81,8 +93,6 @@
 一般店,(有)ストアー谷津,水戸市内原町1516,https://goo.gl/maps/XCmsak1K1vcQ2h5e9,小売,食肉
 大型店,エルアールディーアール,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/SMSqbV6sW2sRtadk8,小売,"婦人服
 "
-一般店,パブロ・タピチ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/SMSqbV6sW2sRtadk8,小売,"洋菓子
-"
 一般店,㈱山大,水戸市南町3-3-32,https://goo.gl/maps/a2vTX49RYkPd1Vq46,小売,鮮魚小売、飲食、刺身
 一般店,マリア・ヴェルト,水戸市見川町2131-28,https://goo.gl/maps/n9Nzk13PxHKYfiDr7,小売,洋菓子（ケーキ・焼き菓子クッキー）
 一般店,greenspot,水戸市千波町1438-2,https://goo.gl/maps/v3xVYMPHCDWfVRuH7,小売,生花・鉢物、ガラス、植木鉢、カフェ内での飲食
@@ -90,7 +100,7 @@
 一般店,タワラオートサイクル,水戸市浜田2-3-21,https://goo.gl/maps/dkVQAw2bWLbKqxa56,小売,自転車・バイク販売修理
 一般店,パティスリー KOSAI,水戸市元吉田町2238-6,https://goo.gl/maps/ixXEeSouhk9Hsxa56,小売,洋菓子
 一般店,カメラのスナオシ,水戸市三の丸1-1-15,https://goo.gl/maps/NnLrPQ6hTqU8bsqj9,小売,デジタルプリント・カメラ・記念写真撮影
-一般店,ブティツク　シマダ,水戸市南町2-5-1,https://goo.gl/maps/M7MFjcRuwWnJA2Va6,小売,婦人服・雑貨等
+一般店,ブティック　シマダ,水戸市南町2-5-1,https://goo.gl/maps/M7MFjcRuwWnJA2Va6,小売,婦人服・雑貨等
 一般店,横須賀花店,水戸市南町3-4-4,https://goo.gl/maps/pu3H91CAdZVoa4NC8,小売,花・鉢物・花器
 一般店,きもの処　雅楽,水戸市泉町2-2-46,https://goo.gl/maps/whpmzJLYoKE58JNq8,小売,呉服一般・和装小物
 一般店,久信田輪業,水戸市河和田2-1792-1,https://goo.gl/maps/ievbTcLwSAQKsEb58,小売,自転車販売、修理
@@ -127,7 +137,7 @@
 一般店,亀印製菓本店,水戸市見川町2139-5,https://goo.gl/maps/1SYxT3qTEBEvWcjB6,小売,和洋菓子全般
 一般店,ホームシックスタイルショップ水戸店,水戸市河和田町3755-1,https://g.page/HSS_Mito?share,小売,家具・雑貨
 一般店,水戸河野酒店,水戸市見和3-663-17,https://goo.gl/maps/SCkyhXthGjbwbXhRA,小売,日本酒　本格焼酎　ワイン
-一般店,セブン-イレブン水戸南町３丁目店,水戸市南町3-3-28,,小売,コンビニエンスストア
+一般店,セブン-イレブン水戸南町３丁目店,水戸市南町3-3-28,https://goo.gl/maps/b9RmXnx376Lh8NVeA,小売,コンビニエンスストア
 一般店,鉢の木,水戸市南町3-6-28,https://goo.gl/maps/MznGV3isHJokKN4z5,小売,和菓子
 一般店,クスリのアオキ　水戸見和店,水戸市見和3-1-2,https://goo.gl/maps/aQ5rvozurE397BLQ6,小売,医薬品・化粧品・日用雑貨
 大型店,MGEAドン・キホーテ上水戸店,水戸市上水戸2-9-10,https://goo.gl/maps/qLnYP9yZn2gxFbyF8,小売,食品・雑貨・家電
@@ -137,7 +147,7 @@
 一般店,WILD-1　水戸店,水戸市元吉田町1779,https://goo.gl/maps/77q666omChJMYNKx5,小売,アウトドア用品
 一般店,茨城トヨタ自動車(株)　水戸赤塚店,水戸市大塚町1852－1,https://goo.gl/maps/Rimmw6XmqhhJjBe89,小売,自動車販売・整備
 一般店,(株)フラワーギフト　ギフト工房310水戸店,水戸市河和田1－1812－3,https://goo.gl/maps/SGdzndQ3RR3bB9qn8,小売,贈答品
-大型店,ツルハドラッグ水戸東前店,水戸市東前2-38,https://goo.gl/maps/uFBxaJwX2dfYUd5b7,小売,医薬品、化粧品、雑貨、食品
+一般店,ツルハドラッグ水戸東前店,水戸市東前2-38,https://goo.gl/maps/uFBxaJwX2dfYUd5b7,小売,医薬品、化粧品、雑貨、食品
 一般店,ツルハドラッグ水戸内原店,水戸市内原1－169,https://goo.gl/maps/zqHKJ8prEAZ2d5Cw6,小売,医薬品、化粧品、雑貨、食品など
 一般店,島村楽器　水戸マイム店,水戸市宮町1-2-4　マイムビルＢ１Ｆ,https://goo.gl/maps/BCzHuhgEtZSzsDDe9,小売,楽器・音楽教室・練習スタジオ
 一般店,タイヤ館水戸河和田店,水戸市河和田2－2230－17,https://goo.gl/maps/qPXfMj8ZpwnxGkg5A,小売,タイヤ・ホイール・カー用品
@@ -198,7 +208,7 @@
 大型店,㈱カワチ薬品　水戸オーパ店,水戸市宮町1-7-33,https://goo.gl/maps/bTfEBHrProQY1fACA,小売,医薬品・化粧品・日用雑貨
 一般店,永楽整体院,水戸市渡里町3268-18 川崎ビル1F,https://goo.gl/maps/3ySXkzyD3hHnwP296,小売,骨盤矯正を中心とした整体
 一般店,(有)高木建材店,水戸市河和田町3735-10,https://goo.gl/maps/GwrcStCEvtrVd9rT6,小売,砂利・砂・セメント・エクステリア関連
-一般店,セブンイレブン　水戸インター店,水戸市加倉井町415,https://goo.gl/maps/btzonD7c1dPCJAMo6,小売,食品・雑貨
+一般店,セブン-イレブン　水戸インター店,水戸市加倉井町415,https://goo.gl/maps/btzonD7c1dPCJAMo6,小売,食品・雑貨
 大型店,WonderGOO　水戸笠原店,水戸市笠原町477-2,https://goo.gl/maps/NibEydyvFA8V4u98A,小売,ゲーム・ＣＤ・ＤＶＤ・本・文具・化粧品
 大型店,トイザらス・ベビーザらス　水戸店,水戸市河和田町3637-1,https://goo.gl/maps/UbvdZTB6TeqXtCZDA,小売,玩具・育児用品・子供衣料・文具・学用品・ゲーム・ソフトウェア・書籍・スポーツ用品など・ベビー・子供用品全般
 一般店,シャディ　ナカムラ　末広町本店,水戸市末広町2-1-29,https://goo.gl/maps/Whj8T6JkD47vvkQRA,小売,ギフト好適品
@@ -251,12 +261,10 @@
 一般店,祐月人形卸センター,水戸市谷津町細田1-37,https://goo.gl/maps/3oyhLDCCQ4Jeb8US8,小売,節句人形（羽子板・破魔弓・ひな人形・五月人形）
 一般店,祐月本店,水戸市末広町2-2-10,https://goo.gl/maps/ArfUwZpEnWVBXPoY6,小売,節句人形（羽子板・破魔弓・ひな人形・五月人形）
 大型店,(株)カワチ薬品　渡里店,水戸市渡里町字新田後2713-1,https://goo.gl/maps/95w3KvLWpJm74Tm37,小売,医薬品・化粧品・雑貨・食品
-一般店,コスメティックハウスＭＩＣ,水戸市宮町2-1-1,https://goo.gl/maps/RaAd5Qtgcv9jLULX6,小売,化粧品
 一般店,ゴルフ５　水戸千波店,水戸市千波町2073-1,https://goo.gl/maps/Zt34JNJU5dE2F9CU7,小売,ゴルフ用品
 一般店,セイエーデンキ　新原店,水戸市新原1-19-12,https://goo.gl/maps/inSVDCt4GjbdHMmi9,小売,一般家電品
 大型店,紳士服のコナカ　水戸本店,水戸市千波町2023-7,https://goo.gl/maps/c3nsr3yjpziwkh396,小売,メンズスーツ・レディススーツ・フォーマル・カジュアル・シューズ・スニーカー　等
 一般店,業務スーパー　けやき台店,水戸市けやき台3-47,https://goo.gl/maps/HV72JCSnwh8y4Y2L8,小売,食品
-一般店,をばた呉服店・エルベ,水戸市本町1-9-25,https://goo.gl/maps/4kbamrcces9yN6VMA,小売,和装品・婦人洋品
 一般店,(有)シュール洋菓子店,水戸市末広町2-2-1,https://goo.gl/maps/EjN8VkRQDCMAacbWA,小売,焼き菓子・生ケーキ
 一般店,業務スーパー見川店,水戸市見川5-1204-2,https://goo.gl/maps/KNa5g17SQwBJvuKU9,小売,食品
 一般店,水戸ヤクルト販売(株)　水戸東センター,水戸市本町3-19-11,https://goo.gl/maps/bQJGNFwddjRHFjJf7,小売,ヤクルト商品
@@ -301,36 +309,30 @@
 一般店,ｺﾝﾀｸﾄのアイシティ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,コンタクト
 大型店,コスメーム,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,化粧品
 大型店,ユナイテッドアローズ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,衣料品
-大型店,HAPiNS,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,バラエティ雑貨
 一般店,ティーズシーズ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,バラエティ雑貨
 大型店,マリークヮント,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,化粧品
 大型店,ゴディバ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,チョコレート
 一般店,フローリストサトー,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,生花
 一般店,京樽,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,寿司
-一般店,エメ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,フォーマルドレス
 一般店,ハーモニカ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,新星堂,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,CD、DVD
 大型店,和幸,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,とんかつ
 一般店,ニュークイック,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,精肉、ハム
-一般店,銀座マギー,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,無印良品,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,生活雑貨
 大型店,和真,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,眼鏡
 一般店,Be-mart,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,グロッサリー
 大型店,エコー７１,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,ＳＭ２×エヘカソポ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
-一般店,靴下屋,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,靴下
 一般店,レトロガール,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,セントエリーネ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,フォンテーヌクチュール,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,ウィッグ
 一般店,神戸屋キッチン,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,ベーカリー＆カフェ
-一般店,ナチュラルビューティーベーシック,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,ジーナシス,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,ヘザー,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,アモスタイル　バイ　トリンプ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,ランジェリー
 一般店,ロペピクニック,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,マウジー,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,ジュピター,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,輸入食品
-一般店,アースミュージック＆エコロジー,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,チュチュアンナ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,靴下、インナーウェア
 一般店,オリヒカ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,紳士服
 大型店,ダイアナ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,レディースシューズ
@@ -362,19 +364,17 @@
 大型店,茨城味撰倶楽部,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,食品（土産品）、茨城名産
 大型店,IBARAKIスイーツ工房,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,洋菓子
 一般店,偕楽梅根本漬物,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,漬物
-大型店,天狗納豆,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,納豆
+一般店,天狗納豆,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,納豆
 一般店,亀印本舗,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,和菓子
 一般店,あさ川,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,和菓子
 大型店,ニュークイック エクセルみなみ店,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,精肉.ハム
 一般店,ニューヨーカー,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,ﾜｯﾌﾙ・ｹｰｷの店Ｒ・Ｌ,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,洋菓子
 大型店,海鮮工房　田中,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,鮮魚
-大型店,アナトリエ,水戸市宮町1-1-1 　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 大型店,プチロコス,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,北関東名産
 一般店,グリーングルメ・神戸屋コロッケ,水戸市宮町1-1-1　プラムストリート,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,洋惣菜・コロッケ
 大型店,黄金おこわ　たごさく,水戸市宮町1-7-31　エクセルみなみ,https://goo.gl/maps/pCT9mnyaPjtbtUqW7,小売,おこわ
 大型店,ローリーズファーム,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
-一般店,マジェスティックレゴン,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,小売,婦人服
 一般店,（有）梅屋酒店,水戸市見川町2563-424,https://goo.gl/maps/461T31R6bhLNSHMH6,小売,清酒・ビール・ワイン
 大型店,ビックカメラ水戸駅店,水戸市宮町1-7-31　エクセルみなみ4F・5F,https://goo.gl/maps/t2H6zQJ152HCtLbz6,小売,テレビ・家電・パソコン・メガネ・おもちゃ・自転車等
 大型店,ヨークベニマル百合が丘店,水戸市百合が丘町8-3,https://goo.gl/maps/8zRjyMKEyARKfz1E8,小売,食料品、日用品
@@ -430,7 +430,7 @@
 大型店,ﾌﾟﾃｨﾏｲﾝ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,子供衣料
 大型店,ﾗｲﾄｵﾝ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
 大型店,ｸﾞﾛｰﾊﾞﾙﾜｰｸ,水戸市内原2-1　イオンモール水戸内原, https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
-大型店,ｱｰﾉﾙﾄﾞﾊﾟｰﾏｰﾀｲﾑﾚｽ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
+大型店,ｺﾞｰｽﾛｰｷｬﾗﾊﾞﾝ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士
 大型店,ｽﾀｰﾍﾞｲｼｮﾝｽﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士・子供衣料
 大型店,WEGO,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士衣料
 大型店,THE SHOP TK,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,婦人・紳士衣料
@@ -452,7 +452,7 @@
 大型店,ｽﾄｰﾝﾏｰｹｯﾄ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,アクセサリー
 大型店,ｴｳﾞｧﾝｼﾞﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,アクセサリー
 大型店,SatiS,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
-大型店,ﾋｯﾁﾊｲｸﾏｰｹｯﾄ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
+大型店,果じゅる,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,洋生菓子
 大型店,ｷﾞｱｰｽﾞｼﾞｬﾑ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
 大型店,ｻｯｸｽﾊﾞｰ･ｱﾅｻﾞｰﾗｳﾝｼﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/5bWkPRdY94sm7K8m8,小売,鞄
 大型店,ﾗﾝｼﾞｪ ﾉｴﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,ランファン
@@ -460,13 +460,11 @@
 大型店,ｴﾒﾌｨｰﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,ランファン
 大型店,niko and …,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,衣料・雑貨
 大型店,ｱﾒﾘｶﾝﾎﾘｯｸ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,衣料・雑貨
-大型店,ｸﾞﾗﾆﾌ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人・紳士・子供衣料
 大型店,ﾛﾃﾞｵｸﾗｳﾝｽﾞ･ﾜｲﾄﾞﾎﾞｳﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人・紳士・子供衣料
 大型店,GAP/Gap kids,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人・紳士・子供衣料
 大型店,ﾋﾞｰﾝｽﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ﾚｲｼﾞﾌﾞﾙｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ｺﾝﾌｧｰﾑ･ｲﾙｽﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
-大型店,HLA,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ｱﾀﾞﾑｽｼﾞｬｸﾞﾗｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ﾊｲﾀﾞｳｪｲ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
 大型店,ﾀｶｷｭｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,紳士衣料
@@ -477,7 +475,6 @@
 大型店,ﾛｰﾘｰｽﾞﾌｧｰﾑ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,ﾊｰﾄﾏｰｹｯﾄ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,INGNI,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
-大型店,Garden by oneway,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,LD prime,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,婦人衣料
 大型店,スポーツオーソリティ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,小売,"スポーツ用品
 "
@@ -533,18 +530,16 @@
 大型店,山新グランステージ水戸ホームセンター,水戸市酒門町上千束3234-1,https://goo.gl/maps/J2FnZtrKpK43tBpr9,小売,工具・日用品・木材・園芸用品・他
 一般店,一司堂印店,水戸市南町2-6-16,https://goo.gl/maps/tiJu8H1GtUzS7qRc7,小売,実印・銀行印・認印・印刷・文具・シャチハタ
 大型店,(株)ヨークベニマル水戸浜田店,水戸市浜田1-2-30,https://goo.gl/maps/vGy7eErD3smjyRi27,小売,食料品
-一般店,セブン－イレブン水戸白梅4丁目店,水戸市白梅4-1-30,https://goo.gl/maps/mA5EcmJgCqrTL5RG7,小売,食品・雑貨
+一般店,セブン-イレブン水戸白梅4丁目店,水戸市白梅4-1-30,https://goo.gl/maps/mA5EcmJgCqrTL5RG7,小売,食品・雑貨
 一般店,(株)楽市,水戸市河和田2-2232-27,https://goo.gl/maps/ChK1TNuE17dZVguy7,小売,活しじみ・冷凍しじみ
 大型店,(株)ヨークベニマル水戸笠原店,水戸市小吹町字新山2582-2,https://goo.gl/maps/ZNnuY1haNdYaNL2s8,小売,食料品
-一般店,日渡洋品店,水戸市本町1-8-8,https://goo.gl/maps/CwEhhF94pF2bFgiJ9,小売,婦人服・肌着
 一般店,秀文堂,水戸市笠原町600-50,https://goo.gl/maps/rV5AQTEXqRPjprLr9,小売,"文具・事務用品・書道用品
 "
 大型店,TAIRAYA 浜田店,水戸市本町3-302-1,https://goo.gl/maps/6Pjf9kzQWJrn52sh6,小売,食品・生鮮食品・雑貨
 一般店,だるま納豆,水戸市柳町1-7-8,https://goo.gl/maps/ErXrvpGebvfVpi82A,小売,納豆類
-一般店,(有)ひたち電器,水戸市石川3-4134-28,https://goo.gl/maps/V2deXC7TzrZ5dY3g7,小売,家電製品の販売・修理
+一般店,ひたち電器,水戸市石川3-4134-28,https://goo.gl/maps/V2deXC7TzrZ5dY3g7,小売,家電製品の販売・修理
 一般店,マツモトキヨシ水戸千波町店,水戸市千波町千波山2467,https://goo.gl/maps/8EAbhvSBnCwKueaN7,小売,医薬品
 一般店,お菓子とおもちゃ　いしざき,水戸市本町3-3-1,https://goo.gl/maps/11ZhA6gX6miyaXmdA,小売,お菓子（駄菓子）・おもちゃ・ミニカー・カード（ポケモンカードなど）
-一般店,Oji’s Chiffon Cake House(オジーズ・シフォンケーキハウス),水戸市本町1-5-30 ウインズロック101,https://goo.gl/maps/fSAqELbkPZ9Fj4Ew6,小売,シフォンケーキ・クッキー・ラスク
 一般店,フレッシュグリーン,水戸市緑町2-2-21,https://goo.gl/maps/xxVpCRWZnfJwqs3k7,小売,洋菓子、パン、焼菓子
 一般店,加寿美屋　パンと洋菓子のお店　,水戸市本町1-4-23,https://goo.gl/maps/qVF8t3ptRFhL1bhCA,小売,パン・洋菓子
 一般店,ふとんの吉見屋,水戸市青柳町4175,https://goo.gl/maps/1PXghQzxv9TRCzpQ7,小売,寝具全般

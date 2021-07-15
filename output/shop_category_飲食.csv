@@ -1,4 +1,11 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,笠間産和栗のモンブラン専門店栗乃薫,水戸市見川町2389‐3,https://goo.gl/maps/QmAbnVkvYsukDF9r7,飲食,できたてモンブラン
+一般店,レストランよこかわ,水戸市大町2‐3‐22,https://goo.gl/maps/8R5ypmdRrTNrhBGU6,飲食,洋食
+一般店,カフェギャラリー　ゆずり葉,水戸市米沢町432-1,https://goo.gl/maps/uofoPaqzCVvCqttbA,飲食,ランチ、スイーツ、コーヒー等の飲みもの
+一般店,花きゃべつ,水戸市南町2-6-31,https://g.page/hanakya?share,飲食,洋食・オムライス
+一般店,安楽亭　水戸千波町店,水戸市千波町2017-4,https://goo.gl/maps/cYK8dskF3YzMKVkX8,飲食,焼肉
+一般店,食工房　しのわ,水戸市白梅2-6-13,https://goo.gl/maps/7T5YZaodX9UBGymg6,飲食,創作レストラン
+一般店,鮨処つかさ,水戸市内原町1595,https://goo.gl/maps/kESLkbyQxoNXPi1N7,飲食,寿司・定食
 一般店,麺や　赤龍,水戸市宮町1-3-38 中村ビル1F,https://goo.gl/maps/UMiApXJs6arwubLS7,飲食,スタミナラーメン・海老みそラーメン
 一般店,焼肉　味乃家亭,水戸市酒門町4394-1,https://goo.gl/maps/4uxMAsGR4wpa6VK89,飲食,焼肉
 一般店,季節料理　茶の間,水戸市南町1-2-4,https://goo.gl/maps/pmnexj5MeuNCN2M96,飲食,豚もやし鍋、自家製おでん、メンチカツ
@@ -8,11 +15,10 @@
 一般店,ばんどう太郎　水戸50号店,水戸市河和田3829-2,https://goo.gl/maps/yod2iiw2R4XNTpkM8,飲食,そば・うどんを中心とした和食
 一般店,魚兼,水戸市浜田2-2-21,https://goo.gl/maps/kRCp6jnxDGntY5QN6,飲食,日本料理
 一般店,選鳥味選　本店（よりどりみどり）,水戸市飯島町471-4,https://goo.gl/maps/3UhnEZ8G3ioLEfh89,飲食,居酒屋・テイクアウト
-大型店,ゴンチャ,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,飲食,カフェ
+一般店,ゴンチャ,水戸市宮町1-1-1　プラムストリート,https://goo.gl/maps/iYoV2zS7DEMHHCyH6,飲食,カフェ
 一般店,HALF TIME Cafe,水戸市緑町2-3-10　アダストリアみとアリーナ内,https://goo.gl/maps/yHW69vPZB4jiEQD89,飲食,手作りパン、パンカフェ、食パン、キューブパン、サンドウィッチ、コーヒー等
 一般店,コジコジ,水戸市渡里町2305-6　オザワビル２階,https://goo.gl/maps/R1sphQZkaoM3kPKC9,飲食,スリランカ　ワンプレート
 一般店,かつや水戸袴塚店,水戸市袴塚2-1-13,https://goo.gl/maps/WJbjEezhDoLC5yeq6,飲食,とんかつ、かつ丼など
-一般店,鮨幸,水戸市吉沼町1790-3,https://goo.gl/maps/rjD3poe3iDB7Sxcp8,飲食,寿司
 一般店,オレンジ・ピープル海賊の宝物,水戸市東赤塚4317-3,https://goo.gl/maps/SeJBVdWo72ufVsSF8,飲食,洋食全般
 一般店,焼肉きんぐ水戸南インター店,水戸市けやき台3-52-1,https://g.page/yakinikuking-mitominaminta?share,飲食,焼肉
 一般店,焼肉きんぐ水戸姫子店,水戸市見和2-514-11,https://g.page/yakinikuking-mitohimego?share,飲食,焼肉
@@ -26,7 +32,7 @@
 一般店,居酒屋　鳥久,水戸市見川2-52-4,https://goo.gl/maps/hMp8whMhZb1AQEV5A,飲食,やきとり、料理各種、アルコール
 一般店,レストラン西洋堂,水戸市大町3-1-5,https://goo.gl/maps/fFeYTYQyemuFAZ2q6,飲食,フランス料理（ランチ・ディナー）及びコーヒーハウス（ランチ）
 一般店,珈琲哲學　水戸店,水戸市加倉井町1952-1,https://goo.gl/maps/H5vC4EDAxtA6xth68,飲食,パスタ・ピッツァ・コーヒー・ケーキ
-一般店,お肉のおいしいレストラン　夢浪漫,水戸市姫子2-767-2,https://goo.gl/maps/TZWY2wZcXdkpQF6n6,飲食,国産牛ハンバーグ・カットステーキ
+一般店,お肉のおいしいレストラン　夢浪漫,水戸市姫子2-767-2,https://goo.gl/maps/TZWY2wZcXdkpQF6n6,飲食,国産牛100％ハンバーグ・常陸牛ステーキ
 一般店,とんQ水戸千波店（とんきゅう）,水戸市千波町1999-5,https://goo.gl/maps/73jJLkjPjhK9DswDA,飲食,とんかつ
 一般店,好文Cafe,水戸市千波町3080,https://goo.gl/maps/L9Yy3KqweVWhXGgn7,飲食,カフェ＆レストラン
 一般店,味人,水戸市白梅1-2-41 コーポ百番,https://goo.gl/maps/bR5puyLPRr8JE39t7,飲食,和食・串焼き
@@ -48,7 +54,7 @@
 一般店,中国料理　泰山,水戸市城南2-14-22　池田ビル1F,https://goo.gl/maps/hEX2akxBvhBCx8mn6,飲食,担々麺・エビチリ・四川麻婆豆腐・各種中華料理
 一般店,ぶたまる食堂　元吉田店,水戸市元吉田町1610-2　,https://goo.gl/maps/BjCU1QMFKWfKFoUg8,飲食,しょうが焼き、豚丼、トンテキ
 一般店,カフェ　アルコイリス,水戸市泉町1-1-16,https://goo.gl/maps/tvhvh5nAnoqS5QGy8,飲食,常陸牛ハンバーグ、自家製スイーツ
-一般店,喰処・飲処　てんまさ,水戸市宮町2-2-31　三友ビル地下１F,https://goo.gl/maps/Xy2Gacd9YGTMKo1LA,飲食,あんこう料理、納豆料理、地酒
+一般店,喰処・飲処　てんまさ,水戸市宮町2-2-31　三友ビル地下１F,https://goo.gl/maps/Xy2Gacd9YGTMKo1LA,飲食,あんこう料理・納豆料理・地酒
 一般店,串カツ田中　水戸駅前店,水戸市三の丸1-1-11,https://goo.gl/maps/51ReErZ6gmeYS1qD7,飲食,串カツ
 一般店,カレーハウスCoCo壱番屋　フレスポ赤塚店,水戸市河和田1-1,https://goo.gl/maps/QfQtKRARn757t6BR7,飲食,カレー専門店
 一般店,一心,水戸市上水戸1-7-28,https://goo.gl/maps/Z3UtMsBwtXvjLtmr5,飲食,鮮魚・鮨・割烹
@@ -75,7 +81,7 @@
 大型店,紅虎餃子房,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/d87obRPmXXURr3er5,飲食,レストラン
 一般店,美味　藤,水戸市栄町1-8-5　さわやか第２ビル,https://goo.gl/maps/ane7c8XHkdvq3TWf7,飲食,料理、酒類
 一般店,蒲焼・割烹　ぬりや,水戸市泉町3-5-9,https://goo.gl/maps/tLckNLBDJPBBFEbGA,飲食,うなぎ・かば焼き、うな弁
-一般店,キッチン寅家,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/SMSqbV6sW2sRtadk8,飲食,洋食
+大型店,キッチン寅家,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/SMSqbV6sW2sRtadk8,飲食,洋食
 一般店,有賀ドライブイン,水戸市有賀町898-5,https://goo.gl/maps/tndFNbq4C18UkDGV7,飲食,定食・ラーメン類
 一般店,たらいうどん椛や,水戸市有賀町1021-1,https://g.page/taraiudonmomijiya?share,飲食,うどん店
 一般店,うなぎ斎藤,水戸市大足町1050-1,https://goo.gl/maps/XB6Pq6HdikeXoVVh6,飲食,うな重
@@ -107,7 +113,6 @@
 一般店,めん屋大黒　笠原店,水戸市笠原町1443-2,https://goo.gl/maps/926omYSjvsSZBNFu9,飲食,ラーメン、定食
 一般店,めん屋大黒　姫子店,水戸市姫子1-810-18,https://goo.gl/maps/7sGhLwfS5eybf1LJ9,飲食,ラーメン、定食
 一般店,大衆酒場　鳥らんど,水戸市宮町2-5-6,https://g.page/tori-land-miyashitaginza?share,飲食,居酒屋
-一般店,食酒　アキヅ,水戸市南町2-1-50,https://goo.gl/maps/C3DXqBgwXHeZvNLX9,飲食,イタリア料理、ワイン
 一般店,和 dining 加護や,水戸市米沢町283-2,https://goo.gl/maps/Jx7AG2o6RXJhCsqs6,飲食,"和食
 "
 一般店,沖縄料理　かなでち,水戸市南町1-3-7,https://goo.gl/maps/YMU2Yw9VY15Ut65A6,飲食,沖縄料理
@@ -123,7 +128,6 @@
 一般店,ココス水戸見川店,水戸市見川2-3063-1,https://goo.gl/maps/VskHo7Z1QRtctrht5,飲食,ファミリーレストラン
 一般店,ココス水戸城南店,水戸市城南3-7-1,https://goo.gl/maps/iTYrqBtBMrNiUrNg8,飲食,ファミリーレストラン
 一般店,ココス水戸茨大前店,水戸市堀町1012-3,https://goo.gl/maps/kJxKn2asw2xpp2zh7,飲食,ファミリーレストラン
-一般店,ココス水戸東野店,水戸市東野町263-4,https://goo.gl/maps/VVRka3pzizxbsLj47,飲食,ファミリーレストラン
 一般店,プロカフェ,水戸市三の丸1-4-2,https://goo.gl/maps/61adUca8abCCuMP7A,飲食,"カフェ・軽食・コーヒー豆販売
 "
 大型店,はなまるうどん,水戸市宮町1-1-1　エクセル,https://goo.gl/maps/ujLarYxsM696LnVu6,飲食,うどん
@@ -141,16 +145,13 @@
 一般店,吾妻鮨　宮下店,水戸市宮町2-5-5,https://goo.gl/maps/TgsY6CmHgmeWxddJ8,飲食,寿司
 一般店,左吉　水戸本店,水戸市姫子1-801-23,https://goo.gl/maps/7WhG5WAdoavkfp4V6,飲食,和食・中華
 一般店,森のシェーブル館,水戸市全隈町1454,https://goo.gl/maps/kwe9pUxPYYy9a19s5,飲食,乳製品（チーズ・レアチーズタルト・ソフトクリーム）
-一般店,デニーズ　水戸城南店,水戸市城南2-8-22,https://goo.gl/maps/kfiZTmndut5of3pe9,飲食,ファミリーレストラン
-一般店,デニーズ　水戸千波店,水戸市千波町2467-3,https://goo.gl/maps/zag3oEf82r4M4D8i9,飲食,ファミリーレストラン
 一般店,COFFEE STORY(コーヒーストーリー),水戸市河和田1-1578-1,https://goo.gl/maps/3Y3dc3758BDsHQSx6,飲食,コーヒー
 一般店,元祖あんこう鍋　山翠,水戸市泉町2-2-40,https://goo.gl/maps/E779Ufqngf7Xns9v8,飲食,お食事・各種ご宴会・慶弔料理・お届け料理・産地直送
 一般店,壽司・割烹　すしとし,水戸市柵町2-8-8,https://goo.gl/maps/6NoXApHui52LoNAu8,飲食,すし・料理一般
 一般店,わさびの花,水戸市宮町1-7 ホテルテラスザガーデン　１Ｆ,https://goo.gl/maps/e3aetLUX7yY57Pr79,飲食,料理・飲物
 一般店,しまだ本店,水戸市城南1-4-12,https://goo.gl/maps/4BiwkWU6i13ntPRK9,飲食,料理・飲物
 一般店,となりのしまだ鱗,水戸市城南1-7-27,https://goo.gl/maps/aQz2YqYdUDKywsfN8,飲食,料理・飲物
-一般店,しまだ別邸　饗,水戸市城南1-6-40,https://goo.gl/maps/SnzGWQGopb1m9S6r9,飲食,料理・飲物
-一般店,がんこ屋　赤塚店,水戸市石川3-4135-17,https://goo.gl/maps/VdZ43zg28K2kRM1M6,飲食,新鮮な旬の活魚や活イカが楽しめるお店
+一般店,水都うどん　麦笑,水戸市城南1-6-40,https://goo.gl/maps/SnzGWQGopb1m9S6r9,飲食,料理・飲物
 一般店,焼き肉和牛食堂　見和店,水戸市見和1-309-4,https://goo.gl/maps/CuEtCNxWifw1WJgP7,飲食,おいしいお肉とサラダバーのお店！食べ放題もおすすめ！
 一般店,ビストロ　エンドウ,水戸市南町1-3-18 アパホテル＜水戸駅北＞２階,https://goo.gl/maps/R9bXhvcv87A417UF8,飲食,ローストビーフ・ポークと生パスタが自慢。農家直送野菜が食べ放題のサラダバーも大好評！
 一般店,魚旬がんこ家　笠原店,水戸市笠原町1189,https://goo.gl/maps/8euMbrAPX5GjYyo46,飲食,新鮮な旬の活魚や活イカが楽しめるお店
@@ -208,8 +209,7 @@
 大型店,ﾏﾘﾉ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,ｽﾃｰｷ＆ﾊﾝﾊﾞｰｸﾞ ﾃﾞﾝﾊﾞｰﾌﾟﾚﾐｱﾑ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,ﾃﾞﾘ・ｼｭｰ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
-大型店,越後秘蔵麺 無尽蔵,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
-大型店,浅草ｸﾞﾘﾙﾊﾞｰｸﾞ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
+大型店,千房,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,鎌倉ﾊﾟｽﾀ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,ﾗｹﾙ,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン
 大型店,天麩羅 えびのや,水戸市内原2-1　イオンモール水戸内原,https://goo.gl/maps/FQ3Jo78xEjfrHJV69,飲食,レストラン

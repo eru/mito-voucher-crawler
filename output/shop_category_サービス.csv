@@ -1,4 +1,11 @@
 店舗区分,店舗名,所在地,地図URL,業種,主な取扱品
+一般店,ビッグエコー　上水戸店,水戸市上水戸3‐6‐28,https://goo.gl/maps/mPZD3Eer2AorEgmE8,サービス,カラオケBOX
+一般店,ビッグエコー　水戸店,水戸市元吉田町1325‐1,https://goo.gl/maps/qYX4FXkXphhHXySB9,サービス,カラオケBOX
+一般店,ビッグエコー　水戸駅南口店,水戸駅桜川1‐3‐20,https://goo.gl/maps/grXVLgnpDZ46teym6,サービス,カラオケBOX
+一般店,ビッグエコー　水戸中央店,水戸市南町2‐4‐39,https://goo.gl/maps/PgnwKZkpTQJR4ZUj7,サービス,カラオケBOX
+一般店,Sugar Hill,水戸市吉沼町270‐3,https://goo.gl/maps/JagcRLgRv51caLZaA,サービス,まつ毛エクステンション
+一般店,ストロベリーフィールズ水戸,水戸市渋井町598,https://g.page/fields-mito?share,サービス,写真撮影・衣装レンタル（七五三、お墓参り、初節句、入園入学、マタニティなど）
+一般店,水戸プラザホテル,水戸市千波町2078－1,https://g.page/mitoplazahotel?share,サービス,宿泊・レストラン
 一般店,BRUNO Rive Gauche(ﾌﾞﾙｰﾉ ﾘﾌﾞ ｺﾞｰｼｭ),水戸市赤塚１-１,https://goo.gl/maps/o1QaF72NxMA46HHBA,サービス,美容室
 一般店,足湯フットセラピー豊愛サロン,水戸市南町2-16-50,https://goo.gl/maps/UcbVy8jyWmrS2D2KA,サービス,足湯、足もみ、ヨガ、瞑想
 一般店,(有)グリーン交通茨城,水戸市浜田町415-3,,サービス,タクシー
@@ -18,8 +25,6 @@
 一般店,カメラのタナカ・スタジオタナカ,水戸市浜田1-16-16,https://goo.gl/maps/f8YhErGWVUbTFgz86,サービス,デジタルプリント・証明写真・各種記念撮影
 一般店,Embellir（アンベリール）,水戸市泉町2-4-28　オフィス水戸ビル５F,,サービス,ネイルサロン
 一般店,シザーハンズ,水戸市元山町1-6-30,https://goo.gl/maps/f3q3edUaVRgn42G16,サービス,パーマ、カラー、カット
-大型店,近畿日本ツーリスト,水戸市内原2-2　イオンモール水戸内原,https://goo.gl/maps/MLsrup3L8PZTSjQa9,サービス,"トラベル
-"
 一般店,名鉄観光サービス㈱水戸支店,水戸市泉町2-2-33　水戸泉町ビル３F,https://goo.gl/maps/b7foFP4HGxmwPhu47,サービス,旅行（パッケージツアー・宿泊など）
 一般店,リラックスサロン　RIBERTY,水戸市元吉田町932グレースガーデン108,https://goo.gl/maps/FsaqmqH8YYJZt8k38,サービス,エステ・リラクゼーションのケア
 一般店,JTB水戸北口店,水戸市宮町2-3-2 富士ビル1F,https://goo.gl/maps/yq1XhyaBDVbDkzFj8,サービス,宿泊を伴う旅行のみ（取消に伴う返金は旅行券となります）
@@ -27,7 +32,7 @@
 大型店,カラオケドレミ　水戸OPA店,水戸市宮町1-7-33　水戸サウスタワー9F,https://goo.gl/maps/Y3tApMwn88WiQVGo7,サービス,カラオケ　飲食　ランチセット（３H+ドリンクバー+ランチ付）
 一般店,ディアナ　水戸千波店,水戸市千波町2309-1,https://goo.gl/maps/SUJmXiT7Gga6Usg7A,サービス,マツエク、ネイル
 一般店,ディアナ　水戸元吉田店,水戸市元吉田町755-5,https://g.page/diana_mito_salon?share,サービス,マツエク、脱毛
-一般店,エステ・ド・サフィール,水戸市吉沢町635-3,,サービス,化粧品、サプリなど
+一般店,エステ・ド・サフィール,水戸市吉沢町635-3,https://goo.gl/maps/1yLWg3Lt1pFKJmP29,サービス,化粧品、サプリなど
 一般店,茨城交通㈱旅行部,水戸市袴塚3-5-36,https://goo.gl/maps/QFmSDz8n3TU5KY3J6,サービス,旅行
 一般店,まごごろカット　水戸河和田店,水戸市河和田町3839-7,https://goo.gl/maps/HZbD2PvhwEU5vx876,サービス,"理容室、美容室、1,200円カット"
 一般店,ホテルレイクビュー水戸,水戸市宮町1-6-1,https://goo.gl/maps/GqzyNm173WL9kiej6,サービス,宿泊・レストランでの会食
@@ -39,7 +44,6 @@
 一般店,せんたく王国白梅店,水戸市宮内町字宮内3199-1　マルト元吉田店内,https://goo.gl/maps/CKkPXSXTVzYxGqpt8,サービス,クリーニング
 一般店,ホテル　いづみ屋,水戸市常磐町2-4-26,https://goo.gl/maps/vJHQMEvHNm8YTNLE8,サービス,宿泊・宴会
 一般店,イソダ美容室,水戸市三の丸2-5-27,https://goo.gl/maps/vyynhCWb8zy12Lcc6,サービス,弱酸性美容ベルジュバンス、着付け
-一般店,ル・シフォン,水戸市見川1-1152-2,https://g.page/lechiffon?share,サービス,衣装レンタル、フォトウエディング
 一般店,海野クリーニング見川店,水戸市見川5-1-8,https://goo.gl/maps/VFokpVxbbyBaaSc29,サービス,クリーニング
 一般店,海野クリーニング本店,水戸市五軒町1-2-24,https://goo.gl/maps/ef8mEwPPr4wEbJy26,サービス,クリーニング
 一般店,ルートシックス,水戸市酒門町1130-10,https://goo.gl/maps/44ZXU9ZhJds9w7fXA,サービス,レンタルキャンピングカー
@@ -90,15 +94,13 @@
 一般店,プレジデントホテル水戸,水戸市城南2-2-2,https://goo.gl/maps/xZAiehem6fvTvpFX7,サービス,宿泊及び中国料理（ランチ・ディナー）
 一般店,大林写真館,水戸市末広町3-5-4,https://goo.gl/maps/sjpNn4vVyLQeo25o6,サービス,お宮参り・七五三・各種記念写真・プロフィール写真
 一般店,(株)小貫写真館　パセオヌエボ,水戸市千波町2482-1,https://goo.gl/maps/C1hpB4iACj4zhvYA7,サービス,写真撮影及びプリント代
-一般店,スピックサロン水戸笠原店,水戸市笠原町1374-9,https://goo.gl/maps/i7E5BZog5NRk5kok8,サービス,美容用品・サプリメント
 一般店,ヘッドスパ専門店リーブライト,水戸市大工町3-7-1,https://goo.gl/maps/Wh1c492M3uovtJLbA,サービス,ヘッドスパ・ヘアカラー
 一般店,せんたく王国　元吉田店,水戸市元吉田町1166-7　フードオフストッカー元吉田店内,https://goo.gl/maps/bTrSxPFB2ohZNKCZ7,サービス,クリーニング
 一般店,せんたく王国　千波店,水戸市千波町2474フードマーケットカスミ千波店内,https://goo.gl/maps/7v9ssU4QKR7brXkg8,サービス,クリーニング
 一般店,せんたく王国　県庁前店,水戸市笠原町975-16 岩崎ビル1階,https://goo.gl/maps/vjWCUDNmdvXB9YoY9,サービス,クリーニング
-一般店,せんたく王国　住吉店,水戸市元吉田町1478-2　パワーマート住吉店,https://goo.gl/maps/2QmqbHQLKSjUzczU9,サービス,クリーニング
+一般店,せんたく王国　住吉店,水戸市元吉田町1037-4　ヨークベニマル元吉田店,https://goo.gl/maps/JRSuUstuq1o1KAZE9,サービス,クリーニング
 一般店,せんたく王国　百合が丘店,水戸市百合が丘町8-3　ヨークベニマル百合が丘店,https://goo.gl/maps/y3pqnSBFbiYsnrxP8,サービス,クリーニング
 一般店,せんたく王国　下市店,水戸市柳町2-11-8　イオンスタイル水戸下市店内,https://goo.gl/maps/CQGEjzaAUwGoUcVd6,サービス,クリーニング
-一般店,せんたく王国　上水戸店,水戸市上水戸2-9-10 メガ・ドンキホーテ上水戸店,https://goo.gl/maps/eCFiy4bBkGAzDCpi8,サービス,クリーニング
 一般店,せんたく王国　河和田店,水戸市河和田2-24-12,https://goo.gl/maps/stZzsymNSheegZoc8,サービス,クリーニング
 一般店,シルキー本店,水戸市笠原町245-2,https://goo.gl/maps/5BvAGhjeknrBpGCbA,サービス,クリーニング
 一般店,洋服おなおし専門店,水戸市千波町736-1,https://goo.gl/maps/yVGbUc7fNujFLjLDA,サービス,洋服リフォーム業
