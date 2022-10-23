@@ -1,16 +1,18 @@
-const puppeteer = require('puppeteer')
-const fs = require('fs')
-const stringify = require('csv-stringify')
+import puppeteer from 'puppeteer-core'
+import fs from 'fs'
+import { stringify } from 'csv-stringify/sync'
 
 const sleep = (msec) => new Promise(resolve => setTimeout(resolve, msec))
 const writeFile = (file, data) => fs.writeFile(`output/${file}`, data, err => {
   if (err) throw err
   console.log(`${file} writed.`)
 })
-const last_page = 96
+const last_page = 88
 
 ;(async () => {
-  const browser = await puppeteer.launch()
+  const browser = await puppeteer.launch({
+    executablePath: process.env['PUPPETEER_EXECUTABLE_PATH'],
+  })
   const page = await browser.newPage()
 
   const header = [['店舗区分', '店舗名', '所在地', '地図URL', '業種', '主な取扱品']]
@@ -41,26 +43,20 @@ const last_page = 96
   }
 
   // 全店出力
-  stringify(header.concat(shops), (err, output) => {
-    writeFile('shop_all.csv', output)
-  })
+  writeFile('shop_all.csv', stringify(header.concat(shops)))
 
   // 店舗区分別出力
   const types = new Set(shops.map(shop => shop[0]))
   types.forEach(v => {
     const filterd_shops = shops.filter(shop => shop[0] === v)
-    stringify(header.concat(filterd_shops), (err, output) => {
-      writeFile(`shop_type_${v}.csv`, output)
-    })
+    writeFile(`shop_type_${v}.csv`, stringify(header.concat(filterd_shops)))
   })
 
   // 業種別出力
   const categories = new Set(shops.map(shop => shop[4]))
   categories.forEach(v => {
     const filterd_shops = shops.filter(shop => shop[4] === v)
-    stringify(header.concat(filterd_shops), (err, output) => {
-      writeFile(`shop_category_${v}.csv`, output)
-    })
+    writeFile(`shop_category_${v}.csv`, stringify(header.concat(filterd_shops)))
   })
 
   await browser.close()

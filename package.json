@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kazuki Hashimoto <eru.tndl@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "csv-stringify": "^5.5.1",
-    "puppeteer": "^5.2.1"
+    "csv-stringify": "*",
+    "puppeteer-core": "*"
   }
 }

@@ -7,13 +7,19 @@
 ## Setup
 
 ```
-npm install
+# Install dependencies
+pnpm install
+
+# Configure
+cp .envrc{.sample,}
+$EDITOR .envrc
+direnv allow
 ```
 
 ## Run
 
 ```
-npm run start
+pnpm run start
 ```
 
 ## Original data
